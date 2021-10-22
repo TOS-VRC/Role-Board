@@ -936,11 +936,11 @@
     "attack": "None",
     "defense": "None",
     "abilities": "Choose one player to invite to join the Mafia. If they are a Town, they will be given an option to join or decline.\n\nIf the target is not Town, they will be notified they were offered to join, but won't be able to accept.",
-    "attributes": "If the target accepts, this will change their win condition to that of the Mafia instead of the Town; they will keep their original role along with its ability and attributes. Your role will then be immediately converted to a Consigliere.\n\nConverted Town will not be able to take part in Mafia meetings, but know who the Mafia are.",
+    "attributes": "If the target accepts, this will change their win condition to that of the Mafia; they will keep their original role along with its ability and attributes. \"Someone has betrayed the town\" is announced the morning after and your role will change to Consigliere.\n\nConverted Town will not be able to take part in Mafia meetings, but is told who the Mafia are.",
     "goal": "Kill anyone that will not submit to the Mafia.",
     "classicResults": "Investigator, Consigliere, Mayor, Negotiator",
     "covenResults": "Investigator, Consigliere, Mayor, Tracker, Plaguebearer, Negotiator",
-    "additional": "Created by Bluesky3010\n\nNegotiator has control immunity. They are Suspicious to the Sheriff and are considered Evil to the Psychic. They cannot be used by the Necromancer.\n\nPlayers who accept to join the Mafia will keep their original role along with its ability and attributes. Example: a Vigilante joins the Mafia, if they shoot a Town, they will still commit suicide. They will be treated the same as a town traitor from the Town Traitor game mode.\n\nNote: It's strongly advised to use one less Mafia member when adding a Negotiator to the rolelist!",
+    "additional": "Created by Bluesky3010\n\nNegotiator has control immunity. They are Suspicious to the Sheriff and are considered Evil to the Psychic. They cannot be used by the Necromancer.\n\nPlayers who accept to join the Mafia will keep their original role along with its ability and attributes. Example: a Vigilante joins the Mafia, if they shoot a Town, they will still commit suicide. If the traitor die it is not announced that they were a traitor.\n\nNote: It's strongly advised to use one less Mafia member when adding a Negotiator to the rolelist!",
     "dlc": false,
     "unique": true
   },
