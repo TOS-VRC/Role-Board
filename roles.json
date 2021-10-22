@@ -700,7 +700,7 @@
     "goal": "Successfully plunder two players.",
     "classicResults": "N/A",
     "covenResults": "Vigilante, Veteran, Mafioso, Pirate, Ambusher",
-    "additional": "Pirate has Roleblock and Control Immunity.\n\nDueling players is considered a Day Ability. This means that duels cannot be prevented in any way, unless the target is Jailed.\n\nBodyguards and Traps will only attack if the Pirate wins the duel. Serial Killers who are not Cautious and Werewolves will automatically kill you, regardless of if you win or lose.",
+    "additional": "Pirate has Roleblock and Control Immunity.\n\nDueling players is considered a Day Ability. This means that duels cannot be prevented in any way, unless the target is Jailed.\n\nBodyguards and Traps will only attack you if the you win the duel. Serial Killers who are not Cautious will kill you if you lose the duel. Werewolves on a Full Moon will automatically kill you, regardless of if you win or lose the duel.",
     "dlc": true,
     "unique": true
   },
