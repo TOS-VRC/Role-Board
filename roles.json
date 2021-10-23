@@ -655,7 +655,7 @@
     "goal": "Kill everyone who would oppose you.",
     "classicResults": "Doctor, Disguiser, Serial Killer",
     "covenResults": "Doctor, Disguiser, Serial Killer, Potion Master",
-    "additional": "Roleblockers and Jailors killed by Serial Killer will make their will 'Bloody' and therefore unable to be read.",
+    "additional": "Serial Killer has Roleblock Immunity.\n\nIf a non-Cautious Serial Killer is roleblocked by an Escort or Consort, they will kill the Escort/Consort along with their intended target and the Escort/Consort will have their Last Will 'bloodied'.\n\nIf a non-Cautious Serial Killer is Jailed or Dueled by a Jailor or Pirate, but they don't kill the Serial Killer, the Serial Killer will kill Jailor/Pirate and the Jailor/Pirate will have their Last Will 'bloodied'.\n\nA 'bloodied' Last Will cannot be read.",
     "dlc": false,
     "unique": false
   },
