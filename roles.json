@@ -426,7 +426,7 @@
     "attack": "None",
     "defense": "None",
     "abilities": "Choose a target to give them false information. Check Additional Information for possible messages. ",
-    "attributes": "The target is unaffected by the false messages you give them; if you false \"You were Roleblocked!\" they will still get normal messages too. Spies who bug your target will receive the same false information.\n\nIf there is no Godfather or Mafioso, you are eligible for promotion to Mafioso.",
+    "attributes": "The target is unaffected by the false messages you give them; if you give a false \"You were Roleblocked!\" message they will still receive their normal messages too. Spies who bug your target will receive the same false information.\n\nIf there is no Godfather or Mafioso, you are eligible for promotion to Mafioso.",
     "goal": "Kill anyone that will not submit to the Mafia.",
     "classicResults": "Escort, Transporter, Consort, Hypnotist",
     "covenResults": "Escort, Transporter, Consort, Hypnotist",
