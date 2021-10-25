@@ -471,7 +471,7 @@
     "attack": "Unstoppable",
     "defense": "None",
     "abilities": "You may choose to hex a player each Night. On the same Night you use the final Hex, or once all non-Coven players are Hexed, you will deal an Unstoppable Attack to all Hexed players.",
-    "attributes": "The Final Hex cannot be Roleblocked. If the Hex Master dies on the same night they use their Final Hex, the wipeout will still occur.\n\nWith the Necronomicon, your Hexes become Astral and you deal a Basic Attack to everyone you Hex.",
+    "attributes": "The Final Hex cannot be Roleblocked. If the Hex Master dies on the same night they use their Final Hex, the wipeout will still occur.\n\nWith the Necronomicon, your Hexes become Astral and you deal a Basic Attack to everyone you Hex.\n\nHexed players will appear as suspicious to the Sheriff. They will also show up under the Hex Master's results to an Investigator and Consigliere.",
     "goal": "Kill all who would oppose the Coven.",
     "classicResults": "N/A",
     "covenResults": "Framer, Vampire, Jester, Hex Master",
