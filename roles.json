@@ -910,7 +910,7 @@
     "goal": "Survive to see the Town and Mafia lose the game.",
     "classicResults": "N/A",
     "covenResults": "Framer, Vampire, Jester, Cthulu, Hex Master",
-    "additional": "Created by Milo\n\nCthulhu is a Unique role. There cannot be more than one.\n\nCthulhu has Roleblock and Control Immunity. They are Not Suspicious to the Sheriff and are considered Evil to the Psychic.\n\nIf a target is both driven insane and Blackmailed, the Insanity takes priority.\n\nCthulhu can force Mayor to reveal by making them say 'I reveal as Mayor'.\n\nThe phrase must at least be clearly heard by the host. It does not have to be heard by everyone.\n\nCthulhu is the only permanent Community role.",
+    "additional": "Created by Milo\nCthulhu is the only permanent Community role.\n\nCthulhu is a Unique role. There cannot be more than one.\n\nCthulhu has Roleblock and Control Immunity. They are Not Suspicious to the Sheriff and are considered Evil to the Psychic.\n\nIf a target is both driven insane and Blackmailed, the Insanity takes priority.\n\nCthulhu can force Mayor to reveal by making them say 'I reveal as Mayor'.\n\nThe phrase must at least be clearly heard by the host. It does not have to be heard by everyone.\n\nIf there are no more evil players that can kill, the Cthulhu loses.",
     "dlc": true,
     "unique": true
   },
