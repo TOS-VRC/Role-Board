@@ -245,7 +245,7 @@
     "alignmentType": "Investigative",
     "attack": "None",
     "defense": "None",
-    "abilities": "Watch someone at Night to see who they visit.\n\nIf the target does not visit anyone, their ability is Astral or uses an abiltiy on themselves, you are simply told they visited no one.",
+    "abilities": "Track someone at Night to see who they visit.\n\nIf the target does not visit anyone, their ability is Astral or uses an ability on themselves, you are simply told they visited no one.",
     "attributes": "",
     "goal": "Lynch every criminal and evildoer.",
     "classicResults": "N/A",
