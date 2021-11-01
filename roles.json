@@ -321,11 +321,11 @@
     "attack": "Basic",
     "defense": "None",
     "abilities": "Choose one person to lie in wait outside their house each Night, attacking one random non-Mafia visitor.",
-    "attributes": "You will deal a Basic Attack to one random non-Mafia visitor. If you ambush a visitor, all visitors will learn they saw your house number lying in ambush at the target.\n\nIf there is no Godfather or Mafioso, you are eligible for promotion to Mafioso.",
+    "attributes": "You will deal a Basic Attack to one random non-Mafia visitor. If you ambush a visitor, all visitors will learn they saw your house number lying in ambush at the target.",
     "goal": "Kill anyone that will not submit to the Mafia.",
     "classicResults": "Vigilante, Veteran, Mafioso, Ambusher",
     "covenResults": "Vigilante, Veteran, Mafioso, Pirate, Ambusher",
-    "additional": "Your attacks are considered Indirect, meaning they don't trigger Trap or Bodyguard counterattacks, and don’t show up to the Spy.",
+    "additional": "Your attacks are considered Indirect, meaning they don't trigger Trap or Bodyguard counterattacks, and don’t show up to the Spy.\n\nIf there is no Godfather or Mafioso, you are eligible for promotion to Mafioso.",
     "dlc": false,
     "unique": true
   },
