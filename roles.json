@@ -545,7 +545,7 @@
     "alignmentType": "Benign",
     "attack": "None",
     "defense": "None",
-    "abilities": "Choose a dead player at Night to become that role at the start of the next Day if you survive.",
+    "abilities": "Choose a dead player at Night to become that role at the start of the next Day if you survive. This ability is Astral.",
     "attributes": "You cannot select anyone Cleaned by a janitor or Stoned by a Medusa. You will not become your chosen role if you die that Night.\n\nOnce an Amnesiac remembers what their role is, it is announced to the whole Town that 'An Amnesiac has remembered themselves as [Role]', but not who that Amnesiac is.\n\nIf an Amnesiac tries to remember someone who was Forged, they will become that person's real role instead.",
     "goal": "Remember who you are and complete that role's goal.",
     "classicResults": "Survivor, Vampire Hunter, Amnesiac",
@@ -610,7 +610,7 @@
     "goal": "Survive to see the Town lose the game.",
     "classicResults": "Lookout, Forger, Witch",
     "covenResults": "N/A",
-    "additional": "Witch has Roleblock Immunity.\n\nIf the first target is Jailed, the control will fail.\n\nIf more than one Witch wants to control the same target, a random Witch will be able to control the target and the others will fail.\n\nIf the Witch is controlled by another Witch, then the first target of the controlled Witch will be replaced with the second target of the controlling Witch.\n\nIf the Witch is transported with their first target and ends up controlling themselves, they will simply visit their second target with no effect.\n\nIf there are no more evil players that can kill, and there are no Vigilantes with rounds remaining, the Witch loses.\n\nThe Witch is not available in Coven DLC games.",
+    "additional": "Witch has Roleblock Immunity.\n\nIf the first target is Jailed, the control will fail.\n\nIf more than one Witch wants to control the same target, a random Witch will be able to control the target and the others will fail.\n\nIf the Witch is controlled by another Witch, then the first target of the controlled Witch will be replaced with the second target of the controlling Witch. If the Witch ends up controlling themselves, they will simply visit their second target with no effect.\n\nIf there are no more evil players that can kill, and there are no Vigilantes with rounds remaining, the Witch loses.\n\nThe Witch is not available in Coven DLC games.",
     "dlc": false,
     "unique": false
   },
@@ -655,7 +655,7 @@
     "goal": "Kill everyone who would oppose you.",
     "classicResults": "Doctor, Disguiser, Serial Killer",
     "covenResults": "Doctor, Disguiser, Serial Killer, Potion Master",
-    "additional": "Serial Killer has Roleblock Immunity.\n\nIf a non-Cautious Serial Killer is roleblocked by an Escort or Consort, they will kill the Escort/Consort along with their intended target and the Escort/Consort will have their Last Will 'bloodied'.\n\nIf a non-Cautious Serial Killer is Jailed or Dueled by a Jailor or Pirate, but they don't kill the Serial Killer, the Serial Killer will kill Jailor/Pirate and the Jailor/Pirate will have their Last Will 'bloodied'.\n\nA 'bloodied' Last Will cannot be read.",
+    "additional": "Serial Killer has Roleblock Immunity, but only against Escort and Consort.\n\nIf a non-Cautious Serial Killer is roleblocked by an Escort or Consort, they will kill the Escort/Consort along with their intended target and the Escort/Consort will have their Last Will 'bloodied'.\n\nIf a non-Cautious Serial Killer is Jailed or Dueled by a Jailor or Pirate, but they don't kill the Serial Killer, the Serial Killer will kill Jailor/Pirate and the Jailor/Pirate will have their Last Will 'bloodied'.\n\nA 'bloodied' Last Will cannot be read.",
     "dlc": false,
     "unique": false
   },
@@ -700,7 +700,7 @@
     "goal": "Successfully plunder two players.",
     "classicResults": "N/A",
     "covenResults": "Vigilante, Veteran, Mafioso, Pirate, Ambusher",
-    "additional": "Pirate has Roleblock and Control Immunity.\n\nDueling players is considered a Day Ability. This means that duels cannot be prevented in any way, unless the target is Jailed.\n\nBodyguards and Traps will only attack you if the you win the duel. Serial Killers who are not Cautious will kill you if you lose the duel. Werewolves on a Full Moon will automatically kill you, regardless of if you win or lose the duel.",
+    "additional": "Pirate has Roleblock and Control Immunity.\n\nDueling players is considered a Day Ability. This means that duels cannot be prevented in any way, unless the target is Jailed.\n\nBodyguards and Traps will only attack you if the you win the duel. Serial Killers who are not Cautious will kill you if you lose the duel. Werewolves on a Full Moon will automatically kill you, regardless of if you win or lose the duel.\n\nYou don't need to be alive in order to win. If you successfully plunder 2 players before you die, you will still win at the end of the game, even if you died the same Night you got your second plunder.",
     "dlc": true,
     "unique": true
   },
