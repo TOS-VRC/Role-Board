@@ -760,7 +760,7 @@
     "goal": "Kill those that stand in the way of the Aliens.",
     "classicResults": "N/A",
     "covenResults": "Bodyguard, Godfather, Arsonist, Crusader, Commander",
-    "additional": "",
+    "additional": "Created by Milo\n\nThey are innocent to the Sheriff and are considered Evil to the Psychic.",
     "dlc": true,
     "unique": true
   },
@@ -775,7 +775,7 @@
     "goal": "Kill those that stand in the way of the Aliens.",
     "classicResults": "N/A",
     "covenResults": "Vigilante, Veteran, Mafioso, Invader, Ambusher",
-    "additional": "The Mothership is in orbit starting from Night 4.",
+    "additional": "Created by Milo\n\nInvader is Suspicious to the Sheriff and is considered Evil to the Psychic.\n\nThe Mothership is in orbit starting from Night 4.",
     "dlc": true,
     "unique": true
   },
@@ -790,7 +790,7 @@
     "goal": "Kill those that stand in the way of the Aliens.",
     "classicResults": "N/A",
     "covenResults": "Escort, Transporter, Consort, Hypnotist, Abductor",
-    "additional": "The Mothership is in orbit starting from Night 4.",
+    "additional": "Created by Milo\n\nAbductor is Suspicious to the Sheriff and is considered Evil to the Psychic.\n\nThe Mothership is in orbit starting from Night 4.\n\nIf there is no Commander or Invader, you are eligible for promotion to Invader.",
     "dlc": true,
     "unique": false
   },
@@ -805,7 +805,7 @@
     "goal": "Kill those that stand in the way of the Aliens.",
     "classicResults": "N/A",
     "covenResults": "Medium, Janitor, Retributionist, Liaison, Trapper",
-    "additional": "This role has been disabled for the same reason as the Blackmailer since both roles are no longer allowed to hear whispers.",
+    "additional": "Created by Milo\n\nLiaison is Suspicious to the Sheriff and is considered Evil to the Psychic.\n\nThis role has been disabled for the same reason as the Blackmailer since both roles are no longer allowed to hear whispers.\n\nIf there is no Commander or Invader, you are eligible for promotion to Invader.",
     "dlc": true,
     "unique": false
   },
@@ -820,7 +820,7 @@
     "goal": "Kill those that stand in the way of the Aliens.",
     "classicResults": "N/A",
     "covenResults": "Spy, Blackmailer, Jailor, Prober, Guardian Angel",
-    "additional": "",
+    "additional": "Created by Milo\n\nProber is Suspicious to the Sheriff and is considered Evil to the Psychic.\n\nIf there is no Commander or Invader, you are eligible for promotion to Invader.",
     "dlc": true,
     "unique": false
   },
@@ -835,7 +835,7 @@
     "goal": "Kill those that stand in the way of the Aliens.",
     "classicResults": "N/A",
     "covenResults": "Lookout, Forger, Juggernaut, Scanner",
-    "additional": "The Mothership is in orbit starting from Night 4.",
+    "additional": "Created by Milo\n\nScanner is Suspicious to the Sheriff and is considered Evil to the Psychic.\n\nThe Mothership is in orbit starting from Night 4.\n\nIf there is no Commander or Invader, you are eligible for promotion to Invader.",
     "dlc": true,
     "unique": false
   },
@@ -850,7 +850,7 @@
     "goal": "Kill those that stand in the way of the Aliens.",
     "classicResults": "N/A",
     "covenResults": "Framer, Vampire, Jester, Mind Controller",
-    "additional": "Going 'Missing' means the Mind Controller will be cleaned of their role and will, but will not be allowed to talk with the deceased as they are not considered dead.\n\nThe theme of the Mind Controller is that they leave their body to control the mind of another player, using their body as a 'Vessel'.",
+    "additional": "Created by Milo\n\nMind Controller is Suspicious to the Sheriff and is considered Evil to the Psychic.\n\nGoing 'Missing' means the Mind Controller will be cleaned of their role and will, but will not be allowed to talk with the deceased as they are not considered dead.\n\nThe theme of the Mind Controller is that they leave their body to control the mind of another player, using their body as a 'Vessel'.\n\nIf there is no Commander or Invader, you are eligible for promotion to Invader.",
     "dlc": true,
     "unique": false
   },
@@ -865,7 +865,7 @@
     "goal": "Kill those that stand in the way of the Aliens.",
     "classicResults": "N/A",
     "covenResults": "Sheriff, Executioner, Werewolf, Minion",
-    "additional": "",
+    "additional": "Created by Milo\n\nMinion is Suspicious to the Sheriff and is considered Evil to the Psychic.\n\nIf there is no Commander or Invader, you are eligible for promotion to Invader.",
     "dlc": true,
     "unique": false
   },
@@ -880,7 +880,7 @@
     "goal": "Kill those that stand in the way of the Aliens.",
     "classicResults": "N/A",
     "covenResults": "Doctor, Disguiser, Serial Killer, Mutator",
-    "additional": "",
+    "additional": "Created by Milo\n\nMinion is Suspicious to the Sheriff and is considered Evil to the Psychic.\n\nIf there is no Commander or Invader, you are eligible for promotion to Invader.",
     "dlc": true,
     "unique": false
   },
@@ -895,7 +895,7 @@
     "goal": "Kill those that stand in the way of the Aliens.",
     "classicResults": "N/A",
     "covenResults": "Survivor, Vampire Hunter, Amnesiac, Vessel, Psychic",
-    "additional": "",
+    "additional": "Created by Milo\n\nVessel is Suspicious to the Sheriff and is considered Evil to the Psychic.\n\nIf there is no Commander or Invader, you are eligible for promotion to Invader.",
     "dlc": true,
     "unique": false
   },
