@@ -235,7 +235,7 @@
     "goal": "Lynch every criminal and evildoer.",
     "classicResults": "N/A",
     "covenResults": "Survivor, Vampire Hunter, Amnesiac, Medusa, Psychic",
-    "additional": "Good: All Town and Neutral Benign.\nEvil: Mafia, Coven, Neutral Killing, Neutral Chaos and Neutral Evil.\n\nCommunity roles with custom alignments may appear differently, check individual roles for more information. Aliens are always considered Evil.\n\nIf you are Jailed or Roleblocked, you will not receive any information that night. If there are not enough players left in the game to make the list of numbers, the Psychic will not be able to learn anything that Night.\n\nThe house numbers given to the Psychic are always one confirmed good or evil and the others are totally random. This means that on an odd night you could get house numbers of one evil and two good, two evil and one good, or even three evils.",
+    "additional": "Good: All Town and Neutral Benign.\nEvil: Mafia, Coven, Neutral Killing, Neutral Chaos and Neutral Evil.\n\nCommunity roles with custom alignments may appear differently, check individual roles for more information.\n\nIf you are Jailed or Roleblocked, you will not receive any information that night.\n\nIf there are less than 3 players on an odd night, or no other good players on an even night, the Psychic will simply learn they could not get a vision that night.\n\nThe house numbers given to the Psychic are always one confirmed good or evil and the others are totally random. This means that on an odd night you could get house numbers of one evil and two good, two evil and one good, or even three evils. The Psychic will never get their own hosue number.",
     "dlc": true,
     "unique": false
   },
