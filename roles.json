@@ -66,7 +66,7 @@
     "attack": "Unstoppable",
     "defense": "None",
     "abilities": "Choose someone each day to jail for the Night and speak with them. The Jailor can ask the target 3 questions anonymously. Check Additional Information for the full Jailor process.\n\nNote: The Host has full discretion as to what is and is not permitted to ask as a question.",
-    "attributes": "You have 3 executions. You cannot execute on the first Night. If you execute a Town or you run out of executions, you will not be able to execute anymore.\n\nJailing a target will grant them Powerful Defence. Anyone who targets the Jailed player will learn they their target is in jail and their ability will fail. If the Jailed player is attacked they will learn they were attacked.",
+    "attributes": "You have 3 executions. You cannot execute on the first Night. If you execute a Town or you run out of executions, you will not be able to execute anymore.\n\nJailing a target will grant them Powerful Defence. Anyone who targets the Jailed player will learn that their target is in jail and their ability will fail. If the Jailed player is attacked they will learn they were attacked.",
     "goal": "Lynch every criminal and evildoer.",
     "classicResults": "Spy, Blackmailer, Jailor",
     "covenResults": "Spy, Blackmailer, Jailor, Guardian Angel",
@@ -115,7 +115,7 @@
     "goal": "Lynch every criminal and evildoer.",
     "classicResults": "Vigilante, Veteran, Mafioso, Ambusher",
     "covenResults": "Vigilante, Veteran, Mafioso, Pirate, Ambusher",
-    "additional": "If the Vigilante is controlled by a Witch, they will be forced to shoot, even if it's the first Night. If the Vigilante has already shot a Town and is going to commit suicide, the Witch cannot control them to shoot a target that Night.",
+    "additional": "If the Vigilante is controlled, they will be forced to shoot, even if it's the first Night. If the Vigilante has already shot a Town and is going to commit suicide, they cannot shoot again even if controlled that Night.",
     "dlc": false,
     "unique": false
   },
@@ -170,7 +170,7 @@
     "alignmentType": "Support",
     "attack": "None",
     "defense": "None",
-    "abilities": "Choose to reveal yourself as the Mayor of the Town at day by saying 'I reveal as Mayor'. You must say this exact phrase.",
+    "abilities": "Choose to reveal yourself as the Mayor of the Town at day by saying 'I reveal as Mayor'. You must say this exact phrase.\n\nYou can still reveal even if you are Blackmailed by a Blackmailer.",
     "attributes": "Once revealed, your vote counts as three, but you can no longer be healed by a Doctor and you are no longer allowed to have whispers.",
     "goal": "Lynch every criminal and evildoer.",
     "classicResults": "Investigator, Consigliere, Mayor",
@@ -340,7 +340,7 @@
     "goal": "Kill anyone that will not submit to the Mafia.",
     "classicResults": "Spy, Blackmailer, Jailor",
     "covenResults": "Spy, Blackmailer, Jailor, Guardian Angel",
-    "additional": "Unlike the Blackmailer in the original game, you are not allowed to hear whispers. This is due to game limitations in VRChat that makes it impossible for you to eavesdrop on whispers.\n\nIf there is no Godfather or Mafioso, you are eligible for promotion to Mafioso.",
+    "additional": "Unlike the Blackmailer in the original game, you are not allowed to hear whispers. This is due to game limitations in VRChat that makes it impossible for you to eavesdrop on whispers.\n\nAn unrevealed Mayor who has been Blackmailed can still reveal themselves as Mayor during the day.\n\nIf there is no Godfather or Mafioso, you are eligible for promotion to Mafioso.",
     "dlc": false,
     "unique": false
   },
@@ -595,7 +595,7 @@
     "goal": "Get yourself lynched by any means necessary.",
     "classicResults": "Framer, Vampire, Jester",
     "covenResults": "Framer, Vampire, Jester, Hex Master",
-    "additional": "If you Haunt the Pestilence, they will not die as the Haunt is considered an Unstoppable Attack while the Pestilence has Invincible Defence. The Jester will not be able to Haunt any other players if they do so.\n\nYour haunt is not affected by Transporters. You will always Attack your chosen target.\n\nIf you survive until the end of the game, you lose. The game will end when there are no more evil roles able to kill the Town or the evil roles have no one to oppose them.",
+    "additional": "If you Haunt the Pestilence, they will not die as the Haunt is considered an Unstoppable Attack while the Pestilence have Invincible Defence. The Jester will not be able to Haunt any other players if they do so.\n\nYour haunt is not affected by Transporters. You will always Attack your chosen target.\n\nIf you survive until the end of the game, you lose. The game will end when there are no more evil roles able to kill the Town or the evil roles have no one to oppose them.",
     "dlc": false,
     "unique": false
   },
@@ -760,7 +760,7 @@
     "goal": "Kill those that stand in the way of the Aliens.",
     "classicResults": "N/A",
     "covenResults": "Bodyguard, Godfather, Arsonist, Crusader, Commander",
-    "additional": "Created by Milo\n\nCommander is innocent to the Sheriff and is considered Evil to the Psychic.",
+    "additional": "Created by Milo\n\nThey are innocent to the Sheriff and are considered Evil to the Psychic.",
     "dlc": true,
     "unique": true
   },
