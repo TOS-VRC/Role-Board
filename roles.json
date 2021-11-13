@@ -310,7 +310,7 @@
     "goal": "Kill anyone that will not submit to the Mafia.",
     "classicResults": "Vigilante, Veteran, Mafioso, Ambusher",
     "covenResults": "Vigilante, Veteran, Mafioso, Pirate, Ambusher",
-    "additional": "If a Mafioso is controlled by a Witch but there is a Godfather ordering the Mafioso to kill their target, the Mafioso will still attack the Godfather's target.",
+    "additional": "If a Mafioso is controlled by a Witch but there is a Godfather ordering the Mafioso to kill their target, the Mafioso will still attack the Godfather's target.\n\nIn the extremely rare event that an Amnesiac remembers themselves as the Godfather and dies, a Promoted Mafioso can be promoted to Godfather.",
     "dlc": false,
     "unique": true
   },
@@ -550,7 +550,7 @@
     "goal": "Remember who you are and complete that role's goal.",
     "classicResults": "Survivor, Vampire Hunter, Amnesiac",
     "covenResults": "Survivor, Vampire Hunter, Amnesiac, Medusa, Psychic",
-    "additional": "If more than 1 Amnesiac tries to remember themselves as a unique role, a random Amnesiac will claim it and the other Amnesiacs will fail.\n\nIf an Amnesiac tries to remember themselves as either a Godfather or Mafioso while happen to be alive, the ability will fail.\n\nIn the extremely rare event that a there is a Promoted Mafioso and the Amnesiac remembers themselves as the Godfather and dies, the Promoted Mafioso can be promoted to Godfather.",
+    "additional": "If multiple Amnesiacs attempt to remember themselves as the same unique role, a random Amnesiac will succee and the others will fail.\n\nIf an Amnesiac tries to remember themselves as a unique role that already exist among living players, for example Godfather or Mafioso, the ability will fail.\n\nIf you are roleblocked or controlled, you will be unable to remember a role. However, being controlled into yourself announces to the Town that an Amnesiac has remembered being an Amnesiac.\n\nIf the game ends before you remember a role, you will lose.",
     "dlc": false,
     "unique": false
   },
