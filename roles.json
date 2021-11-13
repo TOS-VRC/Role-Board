@@ -792,7 +792,7 @@
     "covenResults": "Escort, Transporter, Consort, Hypnotist, Abductor",
     "additional": "Created by Milo\n\nAbductor is Suspicious to the Sheriff and is considered Evil to the Psychic.\n\nThe Mothership is in orbit starting from Night 4.\n\nIf there is no Commander or Invader, you are eligible for promotion to Invader.",
     "dlc": true,
-    "unique": false
+    "unique": true
   },
   {
     "name": "Liaison",
@@ -807,7 +807,7 @@
     "covenResults": "Medium, Janitor, Retributionist, Liaison, Trapper",
     "additional": "Created by Milo\n\nLiaison is Suspicious to the Sheriff and is considered Evil to the Psychic.\n\nThis role has been disabled for the same reason as the Blackmailer since both roles are no longer allowed to hear whispers.\n\nIf there is no Commander or Invader, you are eligible for promotion to Invader.",
     "dlc": true,
-    "unique": false
+    "unique": true
   },
   {
     "name": "Prober",
@@ -822,7 +822,7 @@
     "covenResults": "Spy, Blackmailer, Jailor, Prober, Guardian Angel",
     "additional": "Created by Milo\n\nProber is Suspicious to the Sheriff and is considered Evil to the Psychic.\n\nIf there is no Commander or Invader, you are eligible for promotion to Invader.",
     "dlc": true,
-    "unique": false
+    "unique": true
   },
   {
     "name": "Scanner",
@@ -837,7 +837,7 @@
     "covenResults": "Lookout, Forger, Juggernaut, Scanner",
     "additional": "Created by Milo\n\nScanner is Suspicious to the Sheriff and is considered Evil to the Psychic.\n\nThe Mothership is in orbit starting from Night 4.\n\nIf there is no Commander or Invader, you are eligible for promotion to Invader.",
     "dlc": true,
-    "unique": false
+    "unique": true
   },
   {
     "name": "Mind Controller",
@@ -852,7 +852,7 @@
     "covenResults": "Framer, Vampire, Jester, Mind Controller",
     "additional": "Created by Milo\n\nMind Controller is Suspicious to the Sheriff and is considered Evil to the Psychic.\n\nGoing 'Missing' means the Mind Controller will be cleaned of their role and will, but will not be allowed to talk with the deceased as they are not considered dead.\n\nThe theme of the Mind Controller is that they leave their body to control the mind of another player, using their body as a 'Vessel'.\n\nIf there is no Commander or Invader, you are eligible for promotion to Invader.",
     "dlc": true,
-    "unique": false
+    "unique": true
   },
   {
     "name": "Minion",
@@ -867,7 +867,7 @@
     "covenResults": "Sheriff, Executioner, Werewolf, Minion",
     "additional": "Created by Milo\n\nMinion is Suspicious to the Sheriff and is considered Evil to the Psychic.\n\nIf there is no Commander or Invader, you are eligible for promotion to Invader.",
     "dlc": true,
-    "unique": false
+    "unique": true
   },
   {
     "name": "Mutator",
@@ -882,7 +882,7 @@
     "covenResults": "Doctor, Disguiser, Serial Killer, Mutator",
     "additional": "Created by Milo\n\nMinion is Suspicious to the Sheriff and is considered Evil to the Psychic.\n\nIf there is no Commander or Invader, you are eligible for promotion to Invader.",
     "dlc": true,
-    "unique": false
+    "unique": true
   },
   {
     "name": "Vessel",
@@ -897,7 +897,7 @@
     "covenResults": "Survivor, Vampire Hunter, Amnesiac, Vessel, Psychic",
     "additional": "Created by Milo\n\nVessel is Suspicious to the Sheriff and is considered Evil to the Psychic.\n\nIf there is no Commander or Invader, you are eligible for promotion to Invader.",
     "dlc": true,
-    "unique": false
+    "unique": true
   },
   {
     "name": "Cthulhu",
