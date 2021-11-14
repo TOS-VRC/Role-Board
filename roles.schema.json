@@ -1,0 +1,68 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "https://example.com/roles.schema.json",
+  "title": "Roles",
+  "description": "Information about the roles in the Town of Salem VRChat game",
+  "type": "array",
+  "uniqueItems": true,
+  "items": {
+    "title": "Role",
+    "description": "A role object",
+    "type": "object",
+    "properties": {
+      "Name": {
+        "description": "Name of the role",
+        "type": "string"
+      },
+      "alignment": {
+        "description": "The alignment of the role",
+        "type": "string"
+      },
+      "alignmentType": {
+        "description": "The subcategory of the role",
+        "type": "string"
+      },
+      "attack": {
+        "description": "The attack of the role",
+        "enum": ["None", "Basic", "Powerful", "Unstoppable"]
+      },
+      "defense": {
+        "description": "The defense of the role",
+        "enum": ["None", "Basic", "Powerful", "Invincible"]
+      },
+      "abilities": {
+        "description": "The ability description of the role",
+        "type": "string"
+      },
+      "attributes": {
+        "description": "The attribute description of the role",
+        "type": "string"
+      },
+      "goal": {
+        "description": "The goal of the role",
+        "type": "string"
+      },
+      "classicResults": {
+        "description": "The classic investigative results of the role",
+        "type": "string"
+      },
+      "covenResults": {
+        "description": "The Coven DLC investigative results of the role",
+        "type": "string"
+      },
+      "additional": {
+        "description": "The additional information of the role",
+        "type": "string"
+      },
+      "dlc": {
+        "description": "Indicate the role is Coven DLC exclusive",
+        "type": "boolean"
+      },
+      "unique": {
+        "description": "Indicate the role is unique",
+        "type": "boolean"
+      }
+    },
+    "required": [ "name", "alignment", "alignmentType", "attack", "defense", "abilities", "attributes", "goal", "classicResults", "covenResults", "additional", "dlc", "unique" ]
+  }
+}

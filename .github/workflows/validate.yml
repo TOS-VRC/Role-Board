@@ -1,0 +1,28 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Validate JSON
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  verify-json-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Validate JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          # Relative file path under the repository of a JSON schema file to validate the other JSON files with.
+          INPUT_SCHEMA: /roles.schema.json
+          # One or more relative file paths under the repository (seperated by comma) of the JSON files to validate with the schema provided.
+          INPUT_JSONS: /roles.json
