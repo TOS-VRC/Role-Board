@@ -280,7 +280,7 @@
     "goal": "Lynch every criminal and evildoer.",
     "classicResults": "N/A",
     "covenResults": "Medium, Janitor, Retributionist, Necromancer, Trapper",
-    "additional": "The Trapper has Control Immunity.\n\nIf the Trapper dies, the trap remains at the house's target until triggered. If the Trapper is converted to a Vampire, the trap is removed.\n\nTrapper starts the game with no available trap.",
+    "additional": "If the Trapper is controlled on a night where they have an available trap, they will place it at the house they were controlled to and not know where it is. If the trap is triggered on a night the Trapper is controlled, the controller will get the information from it.\n\nIf the Trapper dies, the trap remains at the house's target until triggered. If the Trapper is converted to a Vampire, the trap is removed.\n\nTrapper starts the game with no available trap.",
     "dlc": true,
     "unique": false
   },
