@@ -96,7 +96,7 @@
     "attack": "Powerful",
     "defense": "None",
     "abilities": "Choose to go on alert each Night. You have three alerts.",
-    "attributes": "While on alert, you gain Basic Defence and will deal a Powerful Attack to all visitors. You learn how many visiots you have shot during the night you are on alert and if any of them survived.",
+    "attributes": "While on alert, you gain Basic Defence and will deal a Powerful Attack to all visitors. You learn how many visitors you have shot during the nights you are on alert.",
     "goal": "Lynch every criminal and evildoer.",
     "classicResults": "Vigilante, Veteran, Mafioso, Ambusher",
     "covenResults": "Vigilante, Veteran, Mafioso, Pirate, Ambusher",
