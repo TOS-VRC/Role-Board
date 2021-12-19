@@ -220,7 +220,7 @@
     "goal": "Lynch every criminal and evildoer.",
     "classicResults": "Escort, Transporter, Consort, Hypnotist",
     "covenResults": "Escort, Transporter, Consort, Hypnotist",
-    "additional": "The Transporter has Roleblock and Control Immunity.\n\nYou cannot swap with an empty house, only alive players.\n\nThe Transporter will change all targeted actions agaisnt two players. Example:\nThe Investigator is going to investigate House 1. The Transporter swaps House 1 and 2. The Investigator will instead investigate House 2, but they will be unaware of this.\n\nIf multiple Transporters target the same houses, a random Transporter takes priority over which house performs the first swap. Process the second swap with the swapped houses.",
+    "additional": "The Transporter has Roleblock and Control Immunity.\n\nYou cannot swap with an empty house, only alive players.\n\nThe Transporter will change all targeted actions against two players. Example:\nThe Investigator is going to investigate House 1. The Transporter swaps House 1 and 2. The Investigator will instead investigate House 2, but they will be unaware of this.\n\nIf multiple Transporters target the same houses, a random Transporter takes priority over which house performs the first swap. Process the second swap with the swapped houses.",
     "dlc": false,
     "unique": false
   },
@@ -550,7 +550,7 @@
     "goal": "Remember who you are and complete that role's goal.",
     "classicResults": "Survivor, Vampire Hunter, Amnesiac",
     "covenResults": "Survivor, Vampire Hunter, Amnesiac, Medusa, Psychic",
-    "additional": "If multiple Amnesiacs attempt to remember themselves as the same unique role, a random Amnesiac will succee and the others will fail.\n\nIf an Amnesiac tries to remember themselves as a unique role that already exist among living players, for example Godfather or Mafioso, the ability will fail.\n\nIf you are roleblocked or controlled, you will be unable to remember a role. However, being controlled into yourself announces to the Town that an Amnesiac has remembered being an Amnesiac.\n\nYou will not become your chosen role if you die the same Night you try to remember yourself as a role.\n\nIf the game ends before you remember a role, you will lose.",
+    "additional": "If multiple Amnesiacs attempt to remember themselves as the same unique role, a random Amnesiac will succeed and the others will fail.\n\nIf an Amnesiac tries to remember themselves as a unique role that already exist among living players, for example Godfather or Mafioso, the ability will fail.\n\nIf you are roleblocked or controlled, you will be unable to remember a role. However, being controlled into yourself announces to the Town that an Amnesiac has remembered being an Amnesiac.\n\nYou will not become your chosen role if you die the same Night you try to remember yourself as a role.\n\nIf the game ends before you remember a role, you will lose.",
     "dlc": false,
     "unique": false
   },
@@ -580,7 +580,7 @@
     "goal": "Get your assigned target lynched at any cost.",
     "classicResults": "Sheriff, Executioner, Werewolf",
     "covenResults": "Sheriff, Executioner, Werewolf, Poisoner",
-    "additional": "It is not announced that the Executioner has won or lost until the end of the game.\n\nYour target has to be lynched while you are alive. If you die after your target was successdully lynched you will still win at the end of the game.\n\nThe game will end when there are no more evil roles able to kill the Town or the evil roles have no one to oppose them, even if your target is still alive.",
+    "additional": "It is not announced that the Executioner has won or lost until the end of the game.\n\nYour target has to be lynched while you are alive. If you die after your target was successfully lynched you will still win at the end of the game.\n\nThe game will end when there are no more evil roles able to kill the Town or the evil roles have no one to oppose them, even if your target is still alive.",
     "dlc": false,
     "unique": false
   },
@@ -906,11 +906,11 @@
     "attack": "None",
     "defense": "Basic",
     "abilities": "Choose a target to drive insane at night, preventing them from communicating meaningfully with other players the following day, instead the target is forced to only say a short phrase over and over again. This is an astral ability.\n\nYou can drive Jailed targets insane, on top of learning they were jailed.",
-    "attributes": "If you are Jailed and not executed, you are forced to use your ability on the Jailor. Pestilence cannot be driven insane.\n\nIf the target breaks the rules by communicating with other players, the host might be forced to immediately kill them on the spot (insanity is meant to be forced). Last words are unaffected by insanity.\n\nNote: The Host has full discretion as to what is and is not permitted to as a phrase. Please keep phrases short, easy to remember and inoffensive. The target player may veto the choosen phrase if they find it offensive.",
+    "attributes": "If you are Jailed and not executed, you are forced to use your ability on the Jailor. Pestilence cannot be driven insane.\n\nIf the target breaks the rules by communicating with other players, the host might be forced to immediately kill them on the spot (insanity is meant to be forced). Last words are unaffected by insanity.\n\nNote: The Host has full discretion as to what is and is not permitted to as a phrase. Please keep phrases short, easy to remember and inoffensive. The target player may veto the chosen phrase if they find it offensive.",
     "goal": "Survive to see the Town and Mafia lose the game.",
     "classicResults": "N/A",
-    "covenResults": "Framer, Vampire, Jester, Cthulu, Hex Master",
-    "additional": "Created by Milo\nCthulhu is the only permanent Community role.\n\nCthulhu is a coven DLC exclusive role and shouldn't be used in classic non-DLC games of Town verse Mafia. Cthulhu is a Unique role. There cannot be more than one.\n\nCthulhu has Roleblock and Control Immunity. They are Not Suspicious to the Sheriff and are considered Evil to the Psychic.\n\nIf the target veto the choosen phrase, and asking Cthulhu again is unfeasible, the host can choose a basic phrase instead. Good examples being \"I am Groot\" or \"my precious\".\n\nIf a target is both driven insane and Blackmailed, the Insanity takes priority.\n\nCthulhu can force Mayor to reveal by making them say 'I reveal as Mayor'.\n\nThe phrase must at least be clearly heard by the host once. It does not have to be heard by everyone.\n\nIf there are no more evil players that can kill, the Cthulhu loses.",
+    "covenResults": "Framer, Vampire, Jester, Cthulhu, Hex Master",
+    "additional": "Created by Milo\nCthulhu is the only permanent Community role.\n\nCthulhu is a coven DLC exclusive role and shouldn't be used in classic non-DLC games of Town verse Mafia. Cthulhu is a Unique role. There cannot be more than one.\n\nCthulhu has Roleblock and Control Immunity. They are Not Suspicious to the Sheriff and are considered Evil to the Psychic.\n\nIf the target veto the chosen phrase, and asking Cthulhu again is unfeasible, the host can choose a basic phrase instead. Good examples being \"I am Groot\" or \"my precious\".\n\nIf a target is both driven insane and Blackmailed, the Insanity takes priority.\n\nCthulhu can force Mayor to reveal by making them say 'I reveal as Mayor'.\n\nThe phrase must at least be clearly heard by the host once. It does not have to be heard by everyone.\n\nIf there are no more evil players that can kill, the Cthulhu loses.",
     "dlc": true,
     "unique": true
   },
