@@ -47,4 +47,4 @@ The information is written in JSON and most most values should be easy to unders
 ## Editor
 A small editor tool exist to preview and edit the information.
 
-Download: [Editor.zip](https://cdn.discordapp.com/attachments/900599452417523722/901108140236484639/Editor.zip)
+Download: [Editor.zip](https://cdn.discordapp.com/attachments/775695682484043788/945273652482568232/RoleEditor.zip)
