@@ -61,8 +61,16 @@
       "unique": {
         "description": "Indicate the role is unique",
         "type": "boolean"
+      },
+      "community": {
+        "description": "Indicate the role is a community role",
+        "type": "boolean"
+      },
+      "color": {
+        "description": "Indicate the the color for a neutral role, null for non-neutral roles",
+        "type": ["string", "null"]
       }
     },
-    "required": [ "name", "alignment", "alignmentType", "attack", "defense", "abilities", "attributes", "goal", "classicResults", "covenResults", "additional", "dlc", "unique" ]
+    "required": [ "name", "alignment", "alignmentType", "attack", "defense", "abilities", "attributes", "goal", "classicResults", "covenResults", "additional", "dlc", "unique", "community", "color" ]
   }
 }
