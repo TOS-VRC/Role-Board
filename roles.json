@@ -12,7 +12,9 @@
     "covenResults": "Investigator, Consigliere, Mayor, Tracker, Plaguebearer",
     "additional": "Manipulated results are in the priority of Frames/Hexes > Douses > Disguises.\n\nImportant: Aliens and Community roles are not official so please check Community roles themselves for modified results.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Lookout",
@@ -27,7 +29,9 @@
     "covenResults": "Lookout, Forger, Juggernaut, Coven Leader",
     "additional": "Disguises can fool Lookouts. Check Disguiser's additional information to learn more.\n\nIn the rare event that the Lookout's target was Seanced by a dead Medium, the Lookout will spot the dead Medium visiting the target.\n\nAlso in the rare event that the Lookout's target was visited by a Retributionist or Necromancer's raised target, the Lookout will see the house of the dead player visiting. Example: Retributionist in House 1 uses the dead Vigilante in House 2 to visit House 3, the Lookout will see 2 visit 3.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Sheriff",
@@ -42,7 +46,9 @@
     "covenResults": "Sheriff, Executioner, Werewolf, Poisoner",
     "additional": "Not Suspicious:\nAll Townies\nGodfather\nAll Neutrals except Serial Killer\nWerewolf during Non-Full Moon\nCoven members with the Necronomicon\n\nSuspicious:\nAll Mafia except Godfather\nSerial Killer\nWerewolf on Full Moon\nAll Coven without the Necronomicon\nAnyone Framed or Hexed\n\nImportant: Community roles may have their own exceptions. Aliens always appear Suspicious. For individual Community roles check additional information to see where exceptions apply.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Spy",
@@ -57,7 +63,9 @@
     "covenResults": "Spy, Blackmailer, Jailor, Guardian Angel",
     "additional": "Your ability to see Mafia/Coven visits are unaffected by Transporters and will always display who the Mafia or Coven actually visit that Night. You will also be able to see Astral visits from the Coven (Hex Master with Necronomicon); but if a Disguiser Disguises a Mafia member as a Town, you will not see their visits.\n\nIn the Town Traitor game mode, you cannot see who the Town Traitor visits.\n\nIf you are roleblocked or jailed, you will not receive the results of your bug or the visits. If you are controlled, you will bug the controller's target, and the controller will get the Mafia and/or Coven visits along with feedback from the bug.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Jailor",
@@ -72,7 +80,9 @@
     "covenResults": "Spy, Blackmailer, Jailor, Guardian Angel",
     "additional": "Jailing a platyer is considered a Day Ability, and cannot be prevented or blocked. However, if the Jailor is roleblocked, then they are prevented from executing their Jailed target.\n\nWhen controlled to visit your Jailed target you are forced to executed, if controlled to visit any other target you are prevented from executing.\n\nInformation you learn from your Jailed target can be used in your Last Will.\n\nJailor process:\nThe Jailor's target will be Jailed. Their ability will be completely blocked regardless of immunity. If they are a faction member, they can listen to the meeting but they cannot speak.\n\nAfter meetings, the host will ask the Jailor for up to 3 questions. The host will tell the Jailee the questions who will respond and relay the answers back to the Jailor. After receiving the answers, if the Jailor is able, they can choose to execute the target. Follow-up questions are not allowed.",
     "dlc": false,
-    "unique": true
+    "unique": true,
+    "community": false,
+    "color": null
   },
   {
     "name": "Vampire Hunter",
@@ -87,7 +97,9 @@
     "covenResults": "Survivor, Vampire Hunter, Amnesiac, Medusa, Psychic",
     "additional": "Unlike the original video game, the Vampire Hunter will not be able to listen into Vampire meetings.\n\nIf your target is converted the same Night you check them, you will not prevent the conversion nor will you stake them.\n\nIf a Vampire Hunter is roleblocked, they will still stake any Vampires visiting them.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Veteran",
@@ -102,7 +114,9 @@
     "covenResults": "Vigilante, Veteran, Mafioso, Pirate, Ambusher",
     "additional": "Veteran has Roleblock and Control Immunity.\n\nIf you are dueled by a Pirate, you can still choose to go on alert.\n\nRoles using an Astral ability are not considered visitors, they will not be attacked by an alerting Veteran. For example Hex Master with the Necronomicon.",
     "dlc": false,
-    "unique": true
+    "unique": true,
+    "community": false,
+    "color": null
   },
   {
     "name": "Vigilante",
@@ -117,7 +131,9 @@
     "covenResults": "Vigilante, Veteran, Mafioso, Pirate, Ambusher",
     "additional": "If the Vigilante is controlled, they will be forced to shoot, even if it's the first Night. If the Vigilante has already shot a Town and is going to commit suicide, they cannot shoot again even if controlled that Night.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Bodyguard",
@@ -132,7 +148,9 @@
     "covenResults": "Bodyguard, Godfather, Arsonist, Crusader",
     "additional": "Bodyguards protecting themselves will not counter-attack any attacking roles that visit them that Night.\n\nThe bodyguard will also protect their target against the Vigilante. The Bodyguard will be shot and the Vigilante will die to the Bodyguard.\n\nBodyguard can attack the Vampire Hunter if the Bodyguard was protecting a Vampire, since the Vampire Hunter will attack the Vampire.\n\nBodyguard does not protect against astral or indirect attacks, such as; Ambusher ambushes, Veteran alerts, other Bodyguard counter-attacks, or Hex Master attacks.\n\nIf a level 3 Juggernaut attack your target, their Unstoppable Attack will ignore your protection ability and allow them to kill their target, you will however still attack the Juggernaut with your Powerful Attack.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Doctor",
@@ -147,7 +165,9 @@
     "covenResults": "Doctor, Disguiser, Serial Killer, Potion Master",
     "additional": "The Doctor cannot heal a revealed Mayor.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Escort",
@@ -162,7 +182,9 @@
     "covenResults": "Escort, Transporter, Consort, Hypnotist",
     "additional": "Escort has Roleblock Immunity.\n\nYou do not learn if your target was Roleblock Immune.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Mayor",
@@ -177,7 +199,9 @@
     "covenResults": "Investigator, Consigliere, Mayor, Tracker, Plaguebearer",
     "additional": "Mayor has no Roleblock Immunity, but their ability cannot be blocked as it's a Day Ability.\n\nBe careful. In the rare event you get converted to a Vampire as a Revealed Mayor, you will no longer appear as a Mayor, lose your votes and people will be able to whisper you. This will give away you are no longer a Mayor.",
     "dlc": false,
-    "unique": true
+    "unique": true,
+    "community": false,
+    "color": null
   },
   {
     "name": "Medium",
@@ -192,7 +216,9 @@
     "covenResults": "Medium, Janitor, Retributionist, Necromancer, Trapper",
     "additional": "Medium has no Roleblock Immunity, but their ability cannot be blocked as it is a passive Night ability.\n\nThe host can handle the Medium's ability in different ways depending on preference. They can either summon you before starting the faction meetings or after the faction meetings have ended, you can talk with the dead in the graveyard until morning. Be sure to not leave the graveyard where you might be seen or see what you shouldn't, instead respawn and teleport to your house.\n\nInformation you learn from the dead can be used in your last will, and information you tell players during a Seance can be used in their last will.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Retributionist",
@@ -207,7 +233,9 @@
     "covenResults": "Medium, Janitor, Retributionist, Necromancer, Trapper",
     "additional": "Retributionist has Roleblock and Control Immunity.\n\nImportant: Community roles may have their own restrictions. Check the additional information for individual Community roles to see where restrictions apply.\n\nIf the rare circumstance that an Amnesiac uses a Retributionist, they cannot use any targets used by the previous Retributionist.\n\nA Tracker will see you visit the house of the dead player you want to use. And a Lookout will see the dead player you used visit your second target.",
     "dlc": false,
-    "unique": true
+    "unique": true,
+    "community": false,
+    "color": null
   },
   {
     "name": "Transporter",
@@ -222,7 +250,9 @@
     "covenResults": "Escort, Transporter, Consort, Hypnotist",
     "additional": "The Transporter has Roleblock and Control Immunity.\n\nYou cannot swap with an empty house, only alive players.\n\nThe Transporter will change all targeted actions against two players. Example:\nThe Investigator is going to investigate House 1. The Transporter swaps House 1 and 2. The Investigator will instead investigate House 2, but they will be unaware of this.\n\nIf multiple Transporters target the same houses, a random Transporter takes priority over which house performs the first swap. Process the second swap with the swapped houses.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Psychic",
@@ -237,7 +267,9 @@
     "covenResults": "Survivor, Vampire Hunter, Amnesiac, Medusa, Psychic",
     "additional": "Good: All Town and Neutral Benign.\nEvil: Mafia, Coven, Neutral Killing, Neutral Chaos and Neutral Evil.\n\nCommunity roles with custom alignments may appear differently, check individual roles for more information.\n\nIf you are Jailed or Roleblocked, you will not receive any information that night.\n\nIf there are less than 3 players on an odd night, or no other good players on an even night, the Psychic will simply learn they could not get a vision that night.\n\nThe house numbers given to the Psychic are always one confirmed good or evil and the others are totally random. This means that on an odd night you could get house numbers of one evil and two good, two evil and one good, or even three evils. The Psychic will never get their own house number.",
     "dlc": true,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Tracker",
@@ -252,7 +284,9 @@
     "covenResults": "Investigator, Consigliere, Mayor, Tracker, Plaguebearer",
     "additional": "Using your ability on an Retributionist or Necromancer will show them visiting a dead player's house if they did anything that night.\n\nIf you track a Jailor, you will see them not visiting anyone. Jailor does not leave their house, even if they choose to jail or execute someone.\n\nIf you track a Transporter or Disguiser, you will see them visiting both their targets.",
     "dlc": true,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Crusader",
@@ -267,7 +301,9 @@
     "covenResults": "Bodyguard, Godfather, Arsonist, Crusader",
     "additional": "",
     "dlc": true,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Trapper",
@@ -282,7 +318,9 @@
     "covenResults": "Medium, Janitor, Retributionist, Necromancer, Trapper",
     "additional": "If the Trapper is controlled on a night where they have an available trap, they will place it at the house they were controlled to and not know where it is. If the trap is triggered on a night the Trapper is controlled, the controller will get the information from it.\n\nIf the Trapper dies, the trap remains at the house's target until triggered. If the Trapper is converted to a Vampire, the trap is removed.\n\nTrapper starts the game with no available trap.",
     "dlc": true,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Godfather",
@@ -297,7 +335,9 @@
     "covenResults": "Bodyguard, Godfather, Arsonist, Crusader",
     "additional": "",
     "dlc": false,
-    "unique": true
+    "unique": true,
+    "community": false,
+    "color": null
   },
   {
     "name": "Mafioso",
@@ -312,7 +352,9 @@
     "covenResults": "Vigilante, Veteran, Mafioso, Pirate, Ambusher",
     "additional": "If a Mafioso is controlled by a Witch but there is a Godfather ordering the Mafioso to kill their target, the Mafioso will still attack the Godfather's target.\n\nIn the extremely rare event that an Amnesiac remembers themselves as the Godfather and dies, a Promoted Mafioso can be promoted to Godfather.",
     "dlc": false,
-    "unique": true
+    "unique": true,
+    "community": false,
+    "color": null
   },
   {
     "name": "Ambusher",
@@ -327,7 +369,9 @@
     "covenResults": "Vigilante, Veteran, Mafioso, Pirate, Ambusher",
     "additional": "Your attacks are considered Indirect, meaning they don't trigger Trap or Bodyguard counterattacks, and don’t show up to the Spy.\n\nIf there is no Godfather or Mafioso, you are eligible for promotion to Mafioso.",
     "dlc": false,
-    "unique": true
+    "unique": true,
+    "community": false,
+    "color": null
   },
   {
     "name": "Blackmailer",
@@ -342,7 +386,9 @@
     "covenResults": "Spy, Blackmailer, Jailor, Guardian Angel",
     "additional": "Unlike the Blackmailer in the original game, you are not allowed to hear whispers. This is due to game limitations in VRChat that makes it impossible for you to eavesdrop on whispers.\n\nAn unrevealed Mayor who has been Blackmailed can still reveal themselves as Mayor during the day.\n\nIf there is no Godfather or Mafioso, you are eligible for promotion to Mafioso.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Consigliere",
@@ -357,7 +403,9 @@
     "covenResults": "Investigator, Consigliere, Mayor, Tracker, Plaguebearer",
     "additional": "If there is no Godfather or Mafioso, you are eligible for promotion to Mafioso.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Consort",
@@ -372,7 +420,9 @@
     "covenResults": "Escort, Transporter, Consort, Hypnotist",
     "additional": "Consort has Roleblock Immunity.\n\nYou do not learn if your target was Roleblock Immune.\n\nIf there is no Godfather or Mafioso, you are eligible for promotion to Mafioso.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Disguiser",
@@ -387,7 +437,9 @@
     "covenResults": "Doctor, Disguiser, Serial Killer, Potion Master",
     "additional": "Your disguises can fool Spies. If you disguise yourself, you will not be seen visiting your target. If you disguise a fellow Mafia member, you will be seen visiting your Mafia teammate, and your teammate will not be seen visiting another player.\n\nA disguised Mafia member will not be seen by a Lookout. Instead, the Lookout will instead see the disguise itself (example: If the Mafioso was disguised as House 1 and the Lookout watched House 2, the Lookout would be seeing House 1 instead of the Mafioso).\n\nIf there is no Godfather or Mafioso, you are eligible for promotion to Mafioso.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Forger",
@@ -402,7 +454,9 @@
     "covenResults": "Lookout, Forger, Juggernaut, Coven Leader",
     "additional": "If your target does not die, your forgery is wasted. Your forgery will take place effect if they die, even if they were not killed by the Mafia (unless they were Jailed and executed or Cleaned/Stoned).\n\nIf the target is Forged and Cleaned or Stoned, the Clean/Stone will take priority.\n\nIn the incredibly rare event that you were Controlled into forging a target that died but did not plan to forge anyone, the forged target will have their will removed and they will appear as the Forger.\n\nIf there is no Godfather or Mafioso, you are eligible for promotion to Mafioso.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Framer",
@@ -417,7 +471,9 @@
     "covenResults": "Framer, Vampire, Jester, Hex Master",
     "additional": "If there is no Godfather or Mafioso, you are eligible for promotion to Mafioso.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Hypnotist",
@@ -432,7 +488,9 @@
     "covenResults": "Escort, Transporter, Consort, Hypnotist",
     "additional": "Coven messages are only allowed in Coven games. Classic messages can be used in Coven games.\n\nClassic:\nYou were transported to another location!\nYou were roleblocked!\nYou were attacked but someone fought your attacker!\nYou were attacked but healed!\nYou were controlled by a Witch!\n\nCoven:\nYou were poisoned. You will die tomorrow!\nYou were attacked but protected!\nSomeone tried to poison you, but you someone fought your attacker!\nYou triggered a trap!\nYou were attacked but a trap saved you!\nA trap attacked you but you were healed!",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Janitor",
@@ -447,7 +505,9 @@
     "covenResults": "Medium, Janitor, Retributionist, Necromancer, Trapper",
     "additional": "If your target does not die, your clean is wasted. Your clean will take effect if they die, even if they were not killed by the Mafia (unless they were Jailed and executed or Stoned).\n\nIf the target is Forged or Stoned, your Clean will take priority.\n\nIf there is no Godfather or Mafioso, you are eligible for promotion to Mafioso.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Coven Leader",
@@ -462,7 +522,9 @@
     "covenResults": "Lookout, Forger, Juggernaut, Coven Leader",
     "additional": "Coven Leader has Roleblock Immunity.\n\nIf the first target is Jailed, the control will fail.\n\nIf the Coven Leader is transported with their first target and ends up controlling themselves, they will simply visit their second target with no effect.\n\nCoven Leaders are not required to be in a Coven game.",
     "dlc": true,
-    "unique": true
+    "unique": true,
+    "community": false,
+    "color": null
   },
   {
     "name": "Hex Master",
@@ -477,7 +539,9 @@
     "covenResults": "Framer, Vampire, Jester, Hex Master",
     "additional": "The Final Hex happens even if the Hex Master is roleblocked or die on the night it happens.\n\nIn the rare event a Hex Master tries to Hex another Coven member, that member will become Hexed. They will die to the Final Hex.",
     "dlc": true,
-    "unique": true
+    "unique": true,
+    "community": false,
+    "color": null
   },
   {
     "name": "Medusa",
@@ -492,7 +556,9 @@
     "covenResults": "Survivor, Vampire Hunter, Amnesiac, Medusa, Psychic",
     "additional": "Unlike the Veteran, the Medusa does not gain Basic Defence when Gazing.\n\nIf the target is also cleaned by a Janitor, the Clean will take priority.",
     "dlc": true,
-    "unique": true
+    "unique": true,
+    "community": false,
+    "color": null
   },
   {
     "name": "Necromancer",
@@ -507,7 +573,9 @@
     "covenResults": "Medium, Janitor, Retributionist, Necromancer, Trapper",
     "additional": "Necromancer has Roleblock and Control Immunity.\n\nNecromancer cannot use these roles:\nTown Support (except Escort)\nExecutioner or Jester\nJailor\nVeteran\nTrapper\nSurvivor\nAmnesiac\nPirate\nCoven Leader\nMedusa\nPotion Master\n\nSince the Pestilence will also rampage at their own house and you will visit them when using their role, you will also be attacked by the Pestilence.\n\nImportant: Community roles may have their own restrictions. Check the additional information for individual Community roles to see where restrictions apply.",
     "dlc": true,
-    "unique": true
+    "unique": true,
+    "community": false,
+    "color": null
   },
   {
     "name": "Poisoner",
@@ -522,7 +590,9 @@
     "covenResults": "Sheriff, Executioner, Werewolf, Poisoner",
     "additional": "Poisoning is considered an attack and you will be attacked by traps and Bodyguards.",
     "dlc": true,
-    "unique": true
+    "unique": true,
+    "community": false,
+    "color": null
   },
   {
     "name": "Potion Master",
@@ -537,7 +607,9 @@
     "covenResults": "Doctor, Disguiser, Serial Killer, Potion Master",
     "additional": "Potion Master has Control immunity.",
     "dlc": true,
-    "unique": true
+    "unique": true,
+    "community": false,
+    "color": null
   },
   {
     "name": "Amnesiac",
@@ -552,7 +624,9 @@
     "covenResults": "Survivor, Vampire Hunter, Amnesiac, Medusa, Psychic",
     "additional": "If multiple Amnesiacs attempt to remember themselves as the same unique role, a random Amnesiac will succeed and the others will fail.\n\nIf an Amnesiac tries to remember themselves as a unique role that already exist among living players, for example Godfather or Mafioso, the ability will fail.\n\nIf you are roleblocked or controlled, you will be unable to remember a role. However, being controlled into yourself announces to the Town that an Amnesiac has remembered being an Amnesiac.\n\nYou will not become your chosen role if you die the same Night you try to remember yourself as a role.\n\nIf the game ends before you remember a role, you will lose.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Survivor",
@@ -567,7 +641,9 @@
     "covenResults": "Survivor, Vampire Hunter, Amnesiac, Medusa, Psychic",
     "additional": "Survivor does not have Control Immunity, but the Witch cannot control whether or not they use their ability. Even if they are controlled, the Survivor can choose to equip the vest.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Executioner",
@@ -582,7 +658,9 @@
     "covenResults": "Sheriff, Executioner, Werewolf, Poisoner",
     "additional": "It is not announced that the Executioner has won or lost until the end of the game.\n\nYour target has to be lynched while you are alive. If you die after your target was successfully lynched you will still win at the end of the game.\n\nThe game will end when there are no more evil roles able to kill the Town or the evil roles have no one to oppose them, even if your target is still alive.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Jester",
@@ -597,7 +675,9 @@
     "covenResults": "Framer, Vampire, Jester, Hex Master",
     "additional": "If you Haunt the Pestilence, they will not die as the Haunt is considered an Unstoppable Attack while the Pestilence have Invincible Defence. The Jester will not be able to Haunt any other players if they do so.\n\nYour haunt is not affected by Transporters. You will always Attack your chosen target.\n\nIf you survive until the end of the game, you lose. The game will end when there are no more evil roles able to kill the Town or the evil roles have no one to oppose them.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Witch",
@@ -612,7 +692,9 @@
     "covenResults": "N/A",
     "additional": "Witch has Roleblock Immunity.\n\nIf the first target is Jailed, the control will fail.\n\nIf more than one Witch wants to control the same target, a random Witch will be able to control the target and the others will fail.\n\nIf the Witch is controlled by another Witch, then the first target of the controlled Witch will be replaced with the second target of the controlling Witch. If the Witch ends up controlling themselves, they will simply visit their second target with no effect.\n\nIf there are no more evil players that can kill, and there are no Vigilantes with rounds remaining, the Witch loses.\n\nThe Witch is not available in Coven DLC games.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Vampire",
@@ -627,7 +709,9 @@
     "covenResults": "Framer, Vampire, Jester, Hex Master",
     "additional": "The Vampire's bite is considered an attack even if it will result in a conversion. This is why any form of defense prevent conversion and will cause the target to be told they were attacked like normal. This also means that a Bodyguard will defend their target from a Vampire, but then get bitten themselves in the process and possibly converted instead.\n\nA successful Vampire conversion happens at the end of the Night if the target wasn't otherwise killed. The converted player will be made aware they are now a Vampire.\n\nVampires will vote for who to bite and the target will be chosen based on chance rather than majority vote. If 2 Vampires vote for Target A and 1 Vampire votes for Target B, there is a 67% chance of biting Target A and a 33% chance of biting Target B.\n\nIf any Vampire is controlled by a Witch, the Witch will automatically control the youngest Vampire. The youngest Vampire will learn of the control and will be forced to bite the Witch's second target.\n\nIf a Vampire is controlled, or tricked by a Transporter, to visit another Vampire nothing will happen.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Arsonist",
@@ -642,7 +726,9 @@
     "covenResults": "Bodyguard, Godfather, Arsonist, Crusader",
     "additional": "Players Doused by Arsonists are not made aware they are Doused, unless they are an Arsonist themselves.\n\nWitches, Coven Leaders and Potion Masters will still learn the target's real role, even if they are Doused.\n\nArsonists controlled into themselves, or tricked into targeting themselves by a Transporter, will result in the Arsonist dousing themselves.\n\nContrary to its goal, Arsonists win with other Arsonists. If an Arsonist is dead but another Arsonist wins, the dead Arsonist wins with them.\n\nIf there are multiple Arsonists, they only know who they've Doused themselves. If one of the Arsonists ignite, all Doused players by all Arsonists will be attacked.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Serial Killer",
@@ -657,7 +743,9 @@
     "covenResults": "Doctor, Disguiser, Serial Killer, Potion Master",
     "additional": "Serial Killer has Roleblock Immunity, but only against Escort and Consort.\n\nIf a non-Cautious Serial Killer is roleblocked by an Escort or Consort, they will kill the Escort/Consort along with their intended target and the Escort/Consort will have their Last Will 'bloodied'.\nIf the Serial Killer is Cautious, they simply ignore the roleblocker.\n\nIf a non-Cautious Serial Killer is Jailed or Dueled by a Jailor or Pirate, but they don't kill the Serial Killer, the Serial Killer will kill Jailor/Pirate and the Jailor/Pirate will have their Last Will 'bloodied'.\nIf the Serial Killer is Cautious, they simply don't attack the Jailor or Pirate.\n\nWhen a Last Will is 'bloodied' it is announced along with the cause of death, and the Last Will not be read.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Werewolf",
@@ -672,7 +760,9 @@
     "covenResults": "Sheriff, Executioner, Werewolf, Poisoner",
     "additional": "Full Moon is on Night 2 and then Night 4 onwards.\n\nWerewolves appear Not Suspicious to the Sheriff on a non-Full Moon, but appear Suspicious on a Full Moon.",
     "dlc": false,
-    "unique": true
+    "unique": true,
+    "community": false,
+    "color": null
   },
   {
     "name": "Guardian Angel",
@@ -687,7 +777,9 @@
     "covenResults": "Spy, Blackmailer, Jailor, Guardian Angel",
     "additional": "It is possible for your target to be an Amnesiac and remember themselves as an Executioner, Jester or another Guardian Angel and you will still be required to protect them.\n\nYou can save your target from a Jailor's execution. However, the Guardian Angel cannot save their target from an attack by a Level 3 Juggernaut, a Vigilante committing suicide, a Jester haunt or the Hex Master's Final Hex.\n\nIf the Guardian Angel is controlled by a Coven Leader or Necromancer, they will be forced to use one of their protections on their target if they have any remaining.\n\nPurge does not remove the effects of a Framer's Frame, or Plaguebearer's Infection.",
     "dlc": true,
-    "unique": false
+    "unique": false,
+    "community": false,
+    "color": null
   },
   {
     "name": "Pirate",
@@ -702,7 +794,9 @@
     "covenResults": "Vigilante, Veteran, Mafioso, Pirate, Ambusher",
     "additional": "Pirate has Roleblock and Control Immunity.\n\nDueling players is considered a Day Ability. This means that duels cannot be prevented in any way, unless the target is Jailed.\n\nBodyguards and Traps will only attack you if the you win the duel. Serial Killers who are not Cautious will kill you if you lose the duel. Werewolves on a Full Moon will automatically kill you, regardless of if you win or lose the duel.\n\nYou don't need to be alive in order to win. If you successfully plunder 2 players before you die, you will still win at the end of the game, even if you died the same Night you got your second plunder.",
     "dlc": true,
-    "unique": true
+    "unique": true,
+    "community": false,
+    "color": null
   },
   {
     "name": "Plaguebearer",
@@ -717,7 +811,9 @@
     "covenResults": "Investigator, Consigliere, Mayor, Tracker, Plaguebearer",
     "additional": "In the rare event that the Plaguebearer is the last one standing, they can achieve a 'Plaguebearer' win. They are not required to become Pestilence.\n\nA player that is getting infected cannot at on the same night spread the infection to their own target and visitors. In other words, an infected player first starts being contagious the following night.\n\nPlaguebearer learns the names of all who is infected at the end of the Night.\n\nIf all players are infected at the end of a night, you become Pestilence at the very end of that night. If the last not infected players are killed during the day, you become Pestilence at the end of the day and it is announced before night start.",
     "dlc": true,
-    "unique": true
+    "unique": true,
+    "community": false,
+    "color": null
   },
   {
     "name": "Pestilence",
@@ -732,7 +828,9 @@
     "covenResults": "Investigator, Consigliere, Mayor, Tracker, Plaguebearer",
     "additional": "Pestilence has Roleblock and Control Immunity.\n\nUnlike the Juggernaut or Werewolf, Pestilence is able to rampage at their own house and their target's house simultaneously.",
     "dlc": true,
-    "unique": true
+    "unique": true,
+    "community": false,
+    "color": null
   },
   {
     "name": "Juggernaut",
@@ -747,7 +845,9 @@
     "covenResults": "Lookout, Forger, Juggernaut, Coven Leader",
     "additional": "Unlike a Werewolf, Juggernaut still deal a direct Powerful Attack even when they rampage, so if the Juggernaut is made to target themselves they will still die from their own Powerful Attack.",
     "dlc": true,
-    "unique": true
+    "unique": true,
+    "community": false,
+    "color": null
   },
   {
     "name": "Cthulhu",
@@ -762,7 +862,9 @@
     "covenResults": "Framer, Vampire, Jester, Cthulhu, Hex Master",
     "additional": "Created by Milo\nCthulhu is permanent Community role.\n\nCthulhu is a coven DLC exclusive role and shouldn't be used in classic non-DLC games of Town verse Mafia. Cthulhu is a Unique role. There cannot be more than one.\n\nCthulhu has Roleblock and Control Immunity. They are Not Suspicious to the Sheriff and are considered Evil to the Psychic.\n\nIf the target vetoes the chosen phrase and asking for a new one is inconvenient, then the host can choose a basic phrase instead. Good examples being \"I am Groot\" or \"my precious\".\n\nIf a target is both driven insane and Blackmailed, the Insanity takes priority.\n\nCthulhu can force Mayor to reveal by making them say 'I reveal as Mayor'.\n\nThe phrase must at least be clearly heard by the host once. It does not have to be heard by everyone.\n\nIf there are no more evil players that can kill, the Cthulhu loses.",
     "dlc": true,
-    "unique": true
+    "unique": true,
+    "community": true,
+    "color": null
   },
   {
     "name": "Mad Scientist",
@@ -777,7 +879,9 @@
     "covenResults": "Bodyguard, Godfather, Arsonist, Mad Scientist, Crusader",
     "additional": "Created by Flare Toga\n\nThe Mad Scientist is Roleblock and Control Immune. They are Not Suspicious to the Sheriff and are considered Evil to the Psychic. They cannot be used by the Necromancer.\n\nPestilence is immune to the bomb. Should the Mad Scientist detonate their bomb when the Pestilence is alive, the Pestilence wins automatically.\n\nThe host should not announce how far the Mad Scientist's progress is at any point, doing so would reveal to the town that the Mad Scientist has or has not been jailed.",
     "dlc": false,
-    "unique": true
+    "unique": true,
+    "community": true,
+    "color": null
   },
   {
     "name": "Anarchist",
@@ -792,7 +896,9 @@
     "covenResults": "Bodyguard, Godfather, Arsonist, Anarchist, Crusader",
     "additional": "Created by _Ignatius\n\nAnarchist is considered Evil to the Psychic.\n\nPlanting bombs is considered a passive ability, so it will not be countered by Bodyguards or Traps.\n\nIf an Anarchist visit the same target as a  Town Investigative role, the bomb is still planted. The bomb can only be defused on the same night it is supposed to detonate.",
     "dlc": false,
-    "unique": true
+    "unique": true,
+    "community": true,
+    "color": null
   },
   {
     "name": "Cultist",
@@ -807,7 +913,9 @@
     "covenResults": "Cultist",
     "additional": "Role imported from One Night Ultimate Werewolf (Mason)\n\nCultists are Suspicious to the Sheriff and are considered Good to the Psychic. They cannot be used by the Necromancer or Retributionist.\n\nCultists are only allowed to speak at Night (such as if you have been Jailed) and are allowed Last Wills. Cultists are allowed to say who the other Cultist is in their will, but this can be considered gamethrowing.\n\nIf a Cultist is driven insane by Cthulhu, they will be made to say what is required, even though they are not allowed to talk otherwise.\n\nIf an Amnesiac remembers themselves as a Cultist, they will automatically become a Jester. It is still announced they remembered themselves as a Cultist.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": true,
+    "color": null
   },
   {
     "name": "Puppet Master",
@@ -822,7 +930,9 @@
     "covenResults": "Framer, Vampire, Jester, Puppet Master, Hex Master",
     "additional": "Created by Lord_Rhys\n\nPuppet Master has Control Immunity. They are Not Suspicious to the Sheriff and are considered Evil to the Psychic. They cannot be used by the Necromancer.\n\nIf your Puppet is Roleblocked but you order them to attack, they will only be blocked from performing their own role's ability but still will go through with the Puppet Master's order.",
     "dlc": true,
-    "unique": true
+    "unique": true,
+    "community": true,
+    "color": null
   },
   {
     "name": "Suicide Bomber",
@@ -837,7 +947,9 @@
     "covenResults": "Jester, Suicide Bomber, Vampire, Framer, Hex Master",
     "additional": "Created by Jailer313\n\nSuicide Bomber has Roleblock Immunity. They are Not Suspicious to the Sheriff and are considered Evil to the Psychic.",
     "dlc": false,
-    "unique": false
+    "unique": false,
+    "community": true,
+    "color": null
   },
   {
     "name": "Concordist",
@@ -852,7 +964,9 @@
     "covenResults": "Sheriff, Executioner, Werewolf, Poisoner, Concordist",
     "additional": "Created by DarkHandman\n\nConcordist has Control Immunity. They are Suspicious to the Sheriff and are considered Evil to the Psychic.\n\nConcordist is not Roleblock Immune (unless the Roleblocker is on Trance I), but will still increase the Trance of everyone who visits them, including the Roleblocker.\n\nTrance I:\n-You gain Roleblock Immunity from this player and appear Innocent to Sheriffs and Psychics in Trance I.\n\nTrance II:\n-Jailor cannot execute you; you will instead increase their Trance along with their visitors.\n-Your visits are Astral to this player, you will not visit them or they will not see you visit.\n-While on trial, Guilty votes by this player are flipped to Innocent.\n\nTrance III:\n-The player is dealt an Unstoppable Attack with the cause of Brain Death. This is instant and cannot be saved by Guardian Angel.\n\nIf the Town becomes unable to lynch the Concordist and there are no more roles remain that are able to kill them, the Concordist will automatically win.",
     "dlc": true,
-    "unique": true
+    "unique": true,
+    "community": true,
+    "color": null
   },
   {
     "name": "Engineer",
@@ -867,7 +981,9 @@
     "covenResults": "Sheriff, Executioner, Werewolf, Poisoner, Engineer",
     "additional": "Created by TheEloGrind\n\nThe Engineer has Control Immunity.",
     "dlc": false,
-    "unique": true
+    "unique": true,
+    "community": true,
+    "color": null
   },
   {
     "name": "Ronin",
@@ -882,7 +998,9 @@
     "covenResults": "Godfather, Bodyguard, Ronin, Hero, Villain, Arsonist, Crusader",
     "additional": "Created by GenkaiSora\n\nRonin is Not Suspicious to the Sheriff and is considered Good to the Psychic.",
     "dlc": false,
-    "unique": true
+    "unique": true,
+    "community": true,
+    "color": null
   },
   {
     "name": "Hero",
@@ -897,7 +1015,9 @@
     "covenResults": "Godfather, Bodyguard, Ronin, Hero, Villain, Arsonist, Crusader",
     "additional": "Created by GenkaiSora\n\nHero is Not Suspicious to the Sheriff and is considered Good to the Psychic.",
     "dlc": false,
-    "unique": true
+    "unique": true,
+    "community": true,
+    "color": null
   },
   {
     "name": "Villain",
@@ -912,7 +1032,9 @@
     "covenResults": "Godfather, Bodyguard, Ronin, Hero, Villain, Arsonist, Crusader",
     "additional": "Created by GenkaiSora\n\nVillain Ronin is Suspicious to the Sheriff and is considered Evil to the Psychic.",
     "dlc": false,
-    "unique": true
+    "unique": true,
+    "community": true,
+    "color": null
   },
   {
     "name": "Arms Dealer",
@@ -927,7 +1049,9 @@
     "covenResults": "Veteran, Vigilante, Mafioso, Ambusher, Pirate, Arms Dealer",
     "additional": "Created by MemeFromBeyond\n\nThe Arms Dealer has Roleblock and Control Immunity. They are Not Suspicious to the Sheriff and are considered Evil to the Psychic.",
     "dlc": false,
-    "unique": true
+    "unique": true,
+    "community": true,
+    "color": null
   },
   {
     "name": "Drifter",
@@ -942,7 +1066,9 @@
     "covenResults": "Medium, Janitor, Retirbutionist, Necromancer, Trapper, Drifter",
     "additional": "Created by Ovron\n\nThe Drifter has Control Immunity. They are Suspicious to the Sheriff and are considered Evil to the Psychic. They cannot be used by the Necromancer.\n\nThe following causes of death can be used:\nstabbed by Serial Killer\nripped to shrades by Werewolf\nshoot by alerting Veteran\nshot by Vigilante\nexecuted by Jailor\nThey were poisoned by the Poisoner\nThey were liquified by the Potion Master\n\nIf there is no Godfather or Mafioso, you are eligible for promotion to Mafioso.",
     "dlc": false,
-    "unique": true
+    "unique": true,
+    "community": true,
+    "color": null
   },
   {
     "name": "Bulletmaker",
@@ -957,7 +1083,9 @@
     "covenResults": "Medium, Janitor, Retributionist, Necromancer, Trapper, Bulletmaker",
     "additional": "Created by Bluesky\n\nThe Werewolf Hunter is Not Suspicious to the Sheriff and is considered Good to the Psychic. They cannot be used by the Necromancer.\n\nThere will always be at least an Alpha Werewolf and a Werewolf Hunter in the game if there is a Bulletmaker at the beginning of the game.",
     "dlc": false,
-    "unique": true
+    "unique": true,
+    "community": true,
+    "color": null
   },
   {
     "name": "Werewolf Hunter",
@@ -972,7 +1100,9 @@
     "covenResults": "Vigilante, Veteran, Mafioso, Pirate, Ambusher, Werewolf Hunter",
     "additional": "Created by Bluesky\n\nThe Werewolf Hunter is Not Suspicious to the Sheriff and is considered Good to the Psychic.\n\nYou will be permanently stuck as a Veteran. This means if an Amnesiac becomes a Werewolf or a Necromancer uses a dead Alpha Werewolf to convert someone, you will not turn back into a Werewolf Hunter.\n\nThere will always be at least an Alpha Werewolf and a Bulletmaker in the game if there is a Werewolf Hunter at the beginning of the game.",
     "dlc": false,
-    "unique": true
+    "unique": true,
+    "community": true,
+    "color": null
   },
   {
     "name": "Alpha Werewolf",
@@ -987,6 +1117,8 @@
     "covenResults": "Lookout, Forger, Juggernaut, Coven Leader, Alpha Werewolf",
     "additional": "Created by Bluesky and inspired by Junky_The_Bard\n\nThe Alpha Werewolf is considered Evil to the Psychic.\n\nThe Alpha Werewolf appear Not Suspicious to the Sheriff on a non-Full Moon, but appear Suspicious on a Full Moon.\n\nThe Alpha Werewolf has Powerful Defence against attacks from a Werewolf.",
     "dlc": false,
-    "unique": true
+    "unique": true,
+    "community": true,
+    "color": null
   }
 ]
