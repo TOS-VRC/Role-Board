@@ -1043,7 +1043,7 @@
     "attack": "None",
     "defense": "Basic",
     "abilities": "Choose someone to offer a firearm to each night.\n\nIf they accept the offer, they will be forced to barricade themself the following night.\n\nYou will be told if your target accepts the offer.",
-    "attributes": "When a player is barricading themselves they roleblock themselves, gain Basic Defence against one attack and deal a Basic Attack to one random visitor.\n\nPlayers killed by a barricading player will be announced as killed by Arms Dealer.",
+    "attributes": "When a player is barricading themselves they will not be able to use any of their abilities, gain Basic Defence against one attack and deal a Basic Attack to one random visitor.\n\nPlayers killed by a barricading player will be announced as killed by Arms Dealer.",
     "goal": "Have 3 players be killed by the weapons you sold.",
     "classicResults": "Veteran, Vigilante, Mafioso, Ambusher, Arms Dealer",
     "covenResults": "Veteran, Vigilante, Mafioso, Ambusher, Pirate, Arms Dealer",
