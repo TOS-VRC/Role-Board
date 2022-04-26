@@ -850,6 +850,23 @@
     "color": "#8F4935"
   },
   {
+    "name": "Custom Role",
+    "alignment": "Neutral",
+    "alignmentType": "Community",
+    "attack": "None",
+    "defense": "None",
+    "abilities": "Custom Role. Ask the Host what you are and what you can do.",
+    "attributes": "Custom Role. Ask the Host what you are and what you can do.",
+    "goal": "Custom",
+    "classicResults": "Custom",
+    "covenResults": "Custom",
+    "additional": "Custom Role. Ask the Host what you are and what you can do.",
+    "dlc": false,
+    "unique": false,
+    "community": true,
+    "color": "#BBBBBB"
+  },
+  {
     "name": "Mad Scientist",
     "alignment": "Neutral",
     "alignmentType": "Killing",
