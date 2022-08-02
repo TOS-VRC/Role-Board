@@ -192,7 +192,7 @@
     "alignmentType": "Support",
     "attack": "None",
     "defense": "None",
-    "abilities": "Choose to reveal yourself as the Mayor of the Town at day by saying 'I reveal as Mayor'. You must say this exact phrase.\n\nYou can still reveal even if you are Blackmailed by a Blackmailer.",
+    "abilities": "Choose to reveal yourself as the Mayor at any point during the day, either via the HUD menu or by saying 'I reveal as Mayor'. You must say this exact phrase to the Host.\n\nYou can still reveal even if you are Blackmailed by a Blackmailer.",
     "attributes": "Once revealed, your vote counts as three, but you can no longer be healed by a Doctor and you are no longer allowed to have whispers.",
     "goal": "Lynch every criminal and evildoer.",
     "classicResults": "Investigator, Consigliere, Mayor",
