@@ -10,7 +10,7 @@
     "goal": "Lynch every criminal and evildoer.",
     "classicResults": "Investigator, Consigliere, Mayor",
     "covenResults": "Investigator, Consigliere, Mayor, Tracker, Plaguebearer",
-    "additional": "Manipulated results are in the priority of Frames/Hexes > Douses > Disguises.\n\nImportant: Community roles are not official so please check Community roles themselves for modified results.",
+    "additional": "Manipulated results are in the priority of Frames/Hexes > Douses > Disguises.\n\nImportant: Community roles are not official so please check Community roles themselves for modified results.\n\nThe results given to the Investigator static depending on the role of the target, there is no randomness involved. If you investigate a Werewolf, you will always get the result 'Sheriff/Executioner/Werewolf', unless the Werewolf has been framed, doused or hexed.",
     "dlc": false,
     "unique": false,
     "community": false,
