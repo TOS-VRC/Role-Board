@@ -78,7 +78,7 @@
     "goal": "Lynch every criminal and evildoer.",
     "classicResults": "Spy, Blackmailer, Jailor",
     "covenResults": "Spy, Blackmailer, Jailor, Guardian Angel",
-    "additional": "Jailing a platyer is considered a Day Ability, and cannot be prevented or blocked. However, if the Jailor is roleblocked, then they are prevented from executing their Jailed target.\n\nWhen controlled to visit your Jailed target you are forced to executed, except on the first night, if controlled to visit any other target you are prevented from executing.\n\nInformation you learn from your Jailed target can be used in your Last Will.\n\nJailor process:\nThe Jailor's target will be Jailed. Their ability will be completely blocked regardless of immunity. If they are a faction member, they can listen to the meeting but they cannot speak.\n\nAfter meetings, the host will ask the Jailor for up to 3 questions. The host will tell the Jailee the questions who will respond and relay the answers back to the Jailor. After receiving the answers, if the Jailor is able, they can choose to execute the target. Follow-up questions are not allowed.",
+    "additional": "Jailing a player is considered a Day Ability, and cannot be prevented or blocked. However, if the Jailor is roleblocked, then they are prevented from executing their Jailed target.\n\nWhen controlled to visit your Jailed target you are forced to executed, except on the first night, if controlled to visit any other target you are prevented from executing.\n\nInformation you learn from your Jailed target can be used in your Last Will.\n\nJailor process:\nThe Jailor's target will be Jailed. Their ability will be completely blocked regardless of immunity. If they are a faction member, they can listen to the meeting but they cannot speak.\n\nAfter meetings, the host will ask the Jailor for up to 3 questions. The host will tell the Jailee the questions who will respond and relay the answers back to the Jailor. After receiving the answers, if the Jailor is able, they can choose to execute the target. Follow-up questions are not allowed.",
     "dlc": false,
     "unique": true,
     "community": false,
@@ -626,7 +626,7 @@
     "dlc": false,
     "unique": false,
     "community": false,
-    "color": null
+    "color": "#44A6C6"
   },
   {
     "name": "Survivor",
@@ -643,7 +643,7 @@
     "dlc": false,
     "unique": false,
     "community": false,
-    "color": null
+    "color": "#C8C800"
   },
   {
     "name": "Executioner",
@@ -677,7 +677,7 @@
     "dlc": false,
     "unique": false,
     "community": false,
-    "color": null
+    "color": "#F49FD0"
   },
   {
     "name": "Witch",
@@ -694,7 +694,7 @@
     "dlc": false,
     "unique": false,
     "community": false,
-    "color": null
+    "color": "#BF5FFF"
   },
   {
     "name": "Vampire",
@@ -728,7 +728,7 @@
     "dlc": false,
     "unique": false,
     "community": false,
-    "color": null
+    "color": "#EE7600"
   },
   {
     "name": "Serial Killer",
@@ -745,7 +745,7 @@
     "dlc": false,
     "unique": false,
     "community": false,
-    "color": null
+    "color": "#000080"
   },
   {
     "name": "Werewolf",
@@ -762,7 +762,7 @@
     "dlc": false,
     "unique": true,
     "community": false,
-    "color": null
+    "color": "#744A2D"
   },
   {
     "name": "Guardian Angel",
@@ -779,7 +779,7 @@
     "dlc": true,
     "unique": false,
     "community": false,
-    "color": null
+    "color": "#FFFFFF"
   },
   {
     "name": "Pirate",
@@ -796,7 +796,7 @@
     "dlc": true,
     "unique": true,
     "community": false,
-    "color": null
+    "color": "#DBAD59"
   },
   {
     "name": "Plaguebearer",
@@ -813,7 +813,7 @@
     "dlc": true,
     "unique": true,
     "community": false,
-    "color": null
+    "color": "#CCFF63"
   },
   {
     "name": "Pestilence",
@@ -830,7 +830,7 @@
     "dlc": true,
     "unique": true,
     "community": false,
-    "color": null
+    "color": "#8ED94E"
   },
   {
     "name": "Juggernaut",
@@ -847,7 +847,24 @@
     "dlc": true,
     "unique": true,
     "community": false,
-    "color": null
+    "color": "#8F4935"
+  },
+  {
+    "name": "Custom Role",
+    "alignment": "Neutral",
+    "alignmentType": "Community",
+    "attack": "None",
+    "defense": "None",
+    "abilities": "Custom Role. Ask the Host what you are and what you can do.",
+    "attributes": "Custom Role. Ask the Host what you are and what you can do.",
+    "goal": "Custom",
+    "classicResults": "Custom",
+    "covenResults": "Custom",
+    "additional": "Custom Role. Ask the Host what you are and what you can do.",
+    "dlc": false,
+    "unique": false,
+    "community": true,
+    "color": "#BBBBBB"
   },
   {
     "name": "Mad Scientist",
@@ -862,91 +879,6 @@
     "covenResults": "Bodyguard, Godfather, Arsonist, Mad Scientist, Crusader",
     "additional": "Created by Flare Toga\n\nThe Mad Scientist is Roleblock and Control Immune. They are Not Suspicious to the Sheriff and are considered Evil to the Psychic. They cannot be used by the Necromancer.\n\nPestilence is immune to the bomb. Should the Mad Scientist detonate their bomb when the Pestilence is alive, the Pestilence wins automatically.\n\nThe host should not announce how far the Mad Scientist's progress is at any point, doing so would reveal to the town that the Mad Scientist has or has not been jailed.",
     "dlc": false,
-    "unique": true,
-    "community": true,
-    "color": null
-  },
-  {
-    "name": "Anarchist",
-    "alignment": "Neutral",
-    "alignmentType": "Chaos",
-    "attack": "Powerful",
-    "defense": "Basic",
-    "abilities": "At Night, visit a target to find out if they are Town. If they are Town, you will plant a bomb which will explode at the end of the following Night, dealing a Powerful Attack to the target and their visitors if it is not defused.\n\nOnce a bomb has been planted, no more can be placed until the current one has been detonated or defused.",
-    "attributes": "If a bomb has been planted it is announced in the morning, but not where. If a Town Investigative role investigates the bombed house, the bomb will be defused but the Town Investigative role will not learn of the defusal.",
-    "goal": "Live to see the Town lose.",
-    "classicResults": "Bodyguard, Godfather, Arsonist, Anarchist",
-    "covenResults": "Bodyguard, Godfather, Arsonist, Anarchist, Crusader",
-    "additional": "Created by _Ignatius\n\nAnarchist is considered Evil to the Psychic.\n\nPlanting bombs is considered a passive ability, so it will not be countered by Bodyguards or Traps.\n\nIf an Anarchist visit the same target as a  Town Investigative role, the bomb is still planted. The bomb can only be defused on the same night it is supposed to detonate.",
-    "dlc": false,
-    "unique": true,
-    "community": true,
-    "color": null
-  },
-  {
-    "name": "Cultist",
-    "alignment": "Neutral",
-    "alignmentType": "Benign",
-    "attack": "None",
-    "defense": "None",
-    "abilities": "No Ability. The Cultists act in secrecy...",
-    "attributes": "The Cultist is bound by oath to never speak to ensure the secrecy of the Cult.\n\nThere are always 2 Cultists at the start of a game. Cultists know who each other are. If your fellow Cultist dies, you will become a Jester. Both Cultists must survive for them to win.",
-    "goal": "Survive until the end of the game.",
-    "classicResults": "Cultist",
-    "covenResults": "Cultist",
-    "additional": "Role imported from One Night Ultimate Werewolf (Mason) and modified by Milo.\n\nCultists are Suspicious to the Sheriff and are considered Good to the Psychic. They cannot be used by the Necromancer or Retributionist.\n\nCultists are only allowed to speak at Night (such as if you have been Jailed) and are allowed Last Wills. Cultists are allowed to say who the other Cultist is in their will, but this can be considered gamethrowing.\n\nIf a Cultist is driven insane by Cthulhu, they will be made to say what is required, even though they are not allowed to talk otherwise.\n\nIf an Amnesiac remembers themselves as a Cultist, they will automatically become a Jester. It is still announced they remembered themselves as a Cultist.",
-    "dlc": false,
-    "unique": false,
-    "community": true,
-    "color": null
-  },
-  {
-    "name": "Puppet Master",
-    "alignment": "Neutral",
-    "alignmentType": "Chaos",
-    "attack": "Basic",
-    "defense": "Basic",
-    "abilities": "If you have a Puppet, attack a player Each Night. If you have no Puppet, choose a target each Night to make them a Puppet. You will always make them a Puppet, regardless of their role.\n\nPuppet Master making new Puppets or ordering them to attack can be Roleblocked. Making new puppets and controlling them is an Astral ability.",
-    "attributes": "Your target will not learn if they have become a Puppet. Your Puppet will do a Basic Attack on your behalf, regardless of their role. Your target will do their own action alongside their attack and will be unaware they are making attacks.\n\nThe Puppet appears Suspicious and gives the Puppet Master results to the Investigator. If the Puppet dies, it's announced they were a Puppet.\n\nYour Puppet can win with you or their original team, but you can only win with your Puppet. If there are only 3 players remaining and one of them is your Puppet, it becomes an automatic Puppet Master win.",
-    "goal": "Kill everyone who would oppose you and your Puppet.",
-    "classicResults": "N/A",
-    "covenResults": "Framer, Vampire, Jester, Puppet Master, Hex Master",
-    "additional": "Created by Lord_Rhys\n\nPuppet Master has Control Immunity. They are Not Suspicious to the Sheriff and are considered Evil to the Psychic. They cannot be used by the Necromancer.\n\nIf your Puppet is Roleblocked but you order them to attack, they will only be blocked from performing their own role's ability but still will go through with the Puppet Master's order.",
-    "dlc": true,
-    "unique": true,
-    "community": true,
-    "color": null
-  },
-  {
-    "name": "Suicide Bomber",
-    "alignment": "Neutral",
-    "alignmentType": "Benign",
-    "attack": "Unstoppable",
-    "defense": "None",
-    "abilities": "At Night, choose to detonate yourself to set off a bomb and kill yourself deal an Unstoppable Attack to all visitors to you.\n\nYou cannot detonate on the first Night.",
-    "attributes": "You need to kill at least two people to win. Having two or more visitors to you but only one person killed will not count as a win.",
-    "goal": "Take 2 people down with you.",
-    "classicResults": "Jester, Suicide Bomber, Vampire, Framer",
-    "covenResults": "Jester, Suicide Bomber, Vampire, Framer, Hex Master",
-    "additional": "Created by Jailer313\n\nSuicide Bomber has Roleblock Immunity. They are Not Suspicious to the Sheriff and are considered Evil to the Psychic.",
-    "dlc": false,
-    "unique": false,
-    "community": true,
-    "color": null
-  },
-  {
-    "name": "Concordist",
-    "alignment": "Neutral",
-    "alignmentType": "Chaos",
-    "attack": "Unstoppable",
-    "defense": "Basic",
-    "abilities": "Choose to entrance a player with music each Night, increasing their Trance level and all visitors to the target.\n\nYou will passively entrance all visitors to you.",
-    "attributes": "You will learn the names and levels of all Entranced players. All Trance effects occur at the end of the Night.\n\nIf the Jailor is on Trance II and they jail you, they are unable to execute you even if they try. You will be forced to visit the Jailor and entrance him and his visitors, raising their Trance levels.\n\nYou cannot target yourself. To stay home, do Nothing.",
-    "goal": "Kill everyone who would oppose you.",
-    "classicResults": "N/A",
-    "covenResults": "Sheriff, Executioner, Werewolf, Poisoner, Concordist",
-    "additional": "Created by DarkHandman\n\nConcordist has Control Immunity. They are Suspicious to the Sheriff and are considered Evil to the Psychic.\n\nConcordist is not Roleblock Immune (unless the Roleblocker is on Trance I), but will still increase the Trance of everyone who visits them, including the Roleblocker.\n\nTrance I:\n-You gain Roleblock Immunity from this player and appear Innocent to Sheriffs and Psychics in Trance I.\n\nTrance II:\n-Jailor cannot execute you; you will instead increase their Trance along with their visitors.\n-Your visits are Astral to this player, you will not visit them or they will not see you visit.\n-While on trial, Guilty votes by this player are flipped to Innocent.\n\nTrance III:\n-The player is dealt an Unstoppable Attack with the cause of Brain Death. This is instant and cannot be saved by Guardian Angel.\n\nIf the Town becomes unable to lynch the Concordist and there are no more roles remain that are able to kill them, the Concordist will automatically win.",
-    "dlc": true,
     "unique": true,
     "community": true,
     "color": null
