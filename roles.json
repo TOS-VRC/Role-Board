@@ -690,7 +690,7 @@
     "goal": "Survive to see the Town lose the game.",
     "classicResults": "Lookout, Forger, Witch",
     "covenResults": "N/A",
-    "additional": "Witch has Roleblock Immunity.\n\nIf the first target is Jailed, the control will fail.\n\nIf more than one Witch wants to control the same target, a random Witch will be able to control the target and the others will fail.\n\nIf the Witch is controlled by another Witch, then the first target of the controlled Witch will be replaced with the second target of the controlling Witch. If the Witch ends up controlling themselves, they will simply visit their second target with no effect.\n\nIf there are no more evil players that can kill, and there are no Vigilantes with rounds remaining, the Witch loses.\n\nThe Witch is not available in Coven DLC games.",
+    "additional": "Witch has Roleblock Immunity.\n\nIf the first target is Jailed, the control will fail.\n\nIf more than one Witch wants to control the same target, a random Witch will be able to control the target and the others will fail.\n\nIf the Witch is controlled by another Witch, then the first target of the controlled Witch will be replaced with the second target of the controlling Witch. If the Witch ends up controlling themselves, they will simply visit their second target with no effect.\n\nIf there are no more evil players able to kill, the game ends and the Witch loses, unless there are Vigilantes still able to kill or there are multiple Witches.\n\nThe Witch is not available in Coven DLC games.",
     "dlc": false,
     "unique": false,
     "community": false,
