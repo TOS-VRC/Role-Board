@@ -758,7 +758,7 @@
     "goal": "Kill everyone who would oppose you.",
     "classicResults": "Sheriff, Executioner, Werewolf",
     "covenResults": "Sheriff, Executioner, Werewolf, Poisoner",
-    "additional": "Full Moon is on Night 2 and then Night 4 onwards.\n\nWerewolves appear Not Suspicious to the Sheriff on a non-Full Moon, but appear Suspicious on a Full Moon.",
+    "additional": "Full Moon is on Night 2 and then Night 4 onwards.\n\nWerewolves appear Not Suspicious to the Sheriff on a non-Full Moon, but appear Suspicious on a Full Moon.\n\nIf the Werewolf's target is jailed by a Jailor, the Werewolf will still attack all visitors to the jailed target. The jailed player will however be safe because of the powerful defense granted by the Jailor. The Jailor themself do not visit their jailed target, so they are also safe from the Werewolf's rampage.",
     "dlc": false,
     "unique": true,
     "community": false,
