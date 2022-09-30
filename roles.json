@@ -367,7 +367,7 @@
     "goal": "Kill anyone that will not submit to the Mafia.",
     "classicResults": "Vigilante, Veteran, Mafioso, Ambusher",
     "covenResults": "Vigilante, Veteran, Mafioso, Pirate, Ambusher",
-    "additional": "Your attacks are considered Indirect, meaning they don't trigger Traps or Bodyguard counterattacks, and don’t show up to the Spy.\n\nYou cannot select another Mafia member to lie in wait at their house.\n\nYou can still attack a town traitor if they visitor your target.\n\nAt the start of a night, if there is no Godfather and no Mafioso, a random mafia member is promotion to Mafioso.",
+    "additional": "Your attacks are considered Indirect, meaning they don't trigger Traps or Bodyguard counterattacks, and don’t show up to the Spy.\n\nYou cannot select another Mafia member to lie in wait at their house.\n\nYou can still attack a town traitor if they visit your target.\n\nAt the start of a night, if there is no Godfather and no Mafioso, a random mafia member is promotion to Mafioso.",
     "dlc": false,
     "unique": true,
     "community": false,
