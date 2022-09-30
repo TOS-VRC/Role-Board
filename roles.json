@@ -214,7 +214,7 @@
     "goal": "Lynch every criminal and evildoer.",
     "classicResults": "Medium, Janitor, Retributionist",
     "covenResults": "Medium, Janitor, Retributionist, Necromancer, Trapper",
-    "additional": "Medium has no Roleblock Immunity, but their ability cannot be blocked as it is a passive Night ability.\n\nThe host can handle the Medium's ability in different ways depending on preference. They can either summon you before starting the faction meetings or after the faction meetings have ended, you can talk with the dead in the graveyard until morning. Be sure to not leave the graveyard where you might be seen or see what you shouldn't, instead respawn and teleport to your house.\n\nInformation you learn from the dead can be used in your last will, and information you tell players during a Seance can be used in their last will.",
+    "additional": "Medium has no Roleblock Immunity, but their ability cannot be blocked as it is a passive Night ability. However if the Medium is jailed they are not allowed to speak while with the dead, since they are being questioned by the Jailor.\n\nThe host can handle the Medium's ability in different ways depending on preference. They can either summon you before starting the faction meetings or after the faction meetings have ended, you can talk with the dead in the graveyard until morning. Be sure to not leave the graveyard where you might be seen or see what you shouldn't, instead respawn and teleport to your house.\n\nInformation you learn from the dead can be used in your last will, and information you tell players during a Seance can be used in their last will.",
     "dlc": false,
     "unique": false,
     "community": false,
