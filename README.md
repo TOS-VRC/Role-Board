@@ -12,18 +12,19 @@ The information is written in JSON and most most values should be easy to unders
 ``` JSON
 [
   {
-    "name": "Role",
+    "name": "Drunk",
     "alignment": "Town",
-    "alignmentType": "WTF",
+    "alignmentType": "Chaos",
     "attack": "None",
     "defense": "None",
-    "abilities": "Test\t",
-    "attributes": "Test",
-    "goal": "Test",
-    "classicResults": "test",
+    "abilities": "Do nothing at night.",
+    "attributes": "Be drunk.",
+    "goal": "Get sober or die trying.",
+    "classicResults": "Sheriff, Executioner, Werewolf or Drunk",
     "covenResults": "",
-    "additional": "test",
+    "additional": "test line 1\ntest line 2",
     "dlc": false,
+    "community":true,
     "unique": false
   },
   {
@@ -39,6 +40,7 @@ The information is written in JSON and most most values should be easy to unders
     "covenResults": "",
     "additional": "",
     "dlc": false,
+    "community":true,
     "unique": false
   }
 ]
