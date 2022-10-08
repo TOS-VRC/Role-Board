@@ -994,10 +994,10 @@
       "abilities":"Can attack every night, but gains 1 level of attack against the targeted player every time it fails against the targeted player. ",
       "attributes":"There cannot be a Juggernaut and Beetlejuice in the same game. \n\nAttacking another player will reset the attack level back to Basic. \n\nif failed an attack on a player and returns on a later day, will remember the attack level increase. \n\n(so you can attack someone on N1 and return to attack N3 and still be able to deal powerful)",
       "goal":"Be the last player standing",
-      "classicResults":"Lookout, Forger, Witch, Beetlejuice",
+      "classicResults":"N/A",
       "covenResults":"Lookout, Forger, Coven Leader, Beetlejuice",
       "additional":"Created by Ammozilla\n\nBeetlejuice is Suspicious to the Sheriff and are considered Evil to the Psychic.\n\nThere cannot be a Juggernaut and Beetlejuice in the same game.\n\nAttacking another player will reset the attack level back to Basic. \n\nif failed an attack on a player and returns on a later day, will remember the attack level increase.(so you can attack someone on N1 and return to attack N3 and still be able to deal powerful)",
-      "dlc":false,
+      "dlc":true,
       "unique":true,
       "community":true,
       "color":null
