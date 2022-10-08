@@ -974,7 +974,7 @@
       "alignmentType":"Killing",
       "attack":"Basic",
       "defense":"None",
-      "abilities":"Mafia sniper has 2 bullets he can shoot, after every shot he must reload the next night. \n\nMafia sniper can shoot the revealed Mayor during the day as long as he has at least 1 bullet by saying I assassinate the mayor' to the host. When using his day ability he will be revealed to the rest of the town.",
+      "abilities":"Mafia sniper has 2 bullets he can shoot, after every shot he must reload the next night. \n\nMafia sniper can shoot the revealed Mayor during the day as long as he has at least 1 bullet by saying I assassinate the mayor' to the host. When using his day ability he will be revealed to the rest of the town. (Only possible during discussion or accusation phase)",
       "attributes":"you unable to shoot a revealed mayor at night.",
       "goal":"Kill all who will not submit to the mafia.",
       "classicResults":"Vigilante, Veteran, Mafioso, Ambusher, Sniper",
