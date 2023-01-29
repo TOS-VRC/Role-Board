@@ -40,7 +40,7 @@
       "attack":"None",
       "defense":"None",
       "abilities":"Check one person each Night and learn if they are Supsicious. Check additional information for a list of roles that appears Suspicious.",
-      "attributes":"A Framer, Disguiser, Arsonist or Hex Master can throw off your results.",
+      "attributes":"A Framer, Disguiser and Hex Master can throw off your results.",
       "goal":"Lynch every criminal and evildoer.",
       "classicResults":"Sheriff, Executioner, Werewolf",
       "covenResults":"Sheriff, Executioner, Werewolf, Poisoner",
