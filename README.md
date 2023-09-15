@@ -22,7 +22,7 @@ The information is written in JSON and most most values should be easy to unders
     "covenResults": "",
     "additional": "test line 1\ntest line 2",
     "dlc": false,
-    "unique": false
+    "unique": false,
     "community":true,
     "color":null
   },
@@ -39,7 +39,7 @@ The information is written in JSON and most most values should be easy to unders
     "covenResults": "",
     "additional": "",
     "dlc": false,
-    "unique": false
+    "unique": false,
     "community":true,
     "color":null
   }
