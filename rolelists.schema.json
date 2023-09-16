@@ -21,7 +21,6 @@
           "items": [
             {
               "type": "array",
-              "uniqueItems": true,
               "items": [
                 {
                   "type": "integer"
