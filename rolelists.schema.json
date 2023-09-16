@@ -1,0 +1,39 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "https://example.com/rolelists.schema.json",
+  "title": "Rolelists",
+  "description": "Information about the premade rolelists in the Town of Salem VRChat game",
+  "type": "array",
+  "uniqueItems": true,
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "dlc": {
+          "type": "boolean"
+        },
+        "variations": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": [
+            {
+              "type": "array",
+              "items": [
+                {
+                  "type": "integer"
+                }
+              ],
+              "minItems": 5,
+              "maxItems": 15
+            }
+          ],
+          "minItems": 1,
+          "maxItems": 11
+        }
+      }
+    }
+  ]
+}
