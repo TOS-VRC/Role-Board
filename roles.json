@@ -73,7 +73,7 @@
       "alignmentType":"Killing",
       "attack":"Unstoppable",
       "defense":"None",
-      "abilities":"Choose someone during each day to jail for the Night and speak with them. This is done using the pop-up menu during any of the day phases.\n\nThe Jailor will have a text chat with their jailed target anonymously.",
+      "abilities":"Choose someone during each day to jail for the Night and speak with them. This is done using the pop-up menu during any of the day phases.\n\nThe Jailor will have a text chat with their jailed target anonymously during the night. The text chat can be found on the action board, simply click to write a message.",
       "attributes":"You have 3 executions. You cannot execute on the first Night. If you execute a member of the Town faction or you run out of executions, you will not be able to execute anymore.\n\nJailing a target will grant them Powerful Defence. Anyone who targets the Jailed player with a non-attack ability will learn that their target is in jail and their ability will fail. If the Jailed player is attacked they will learn they were attacked.",
       "goal":"Lynch every criminal and evildoer.",
       "classicResults":"Spy, Blackmailer, Jailor",
