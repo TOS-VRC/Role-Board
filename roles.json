@@ -720,7 +720,7 @@
       "attack":"Unstoppable",
       "defense":"Basic",
       "abilities":"Choose to Douse a player in gasoline each night.\n\nOr Ignite all Doused targets, dealing an Unstoppable Attack to all of them.",
-      "attributes":"You will passively douse anyone that visits you and learn their house numbers.\n\nIf you happen to become Doused, you can choose to do no action at Night to clean the gasoline off yourself. Ignites will kill you if you are doused.\n\nDoused players will show as Arsonist results to Investigator and Consigliere.",
+      "attributes":"You will passively douse anyone that visits you and learn their house numbers. This happens even if you are jailed or roleblocked.\n\nIf you happen to become Doused, you can choose to do no action at Night to clean the gasoline off yourself. Ignites will kill you if you are doused.\n\nDoused players will show as Arsonist results to Investigator and Consigliere.",
       "goal":"Live to see everyone burn.",
       "classicResults":"Bodyguard, Godfather, Arsonist",
       "covenResults":"Bodyguard, Godfather, Arsonist, Crusader",
