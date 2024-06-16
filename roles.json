@@ -311,7 +311,7 @@
       "alignmentType":"Protective",
       "attack":"Powerful",
       "defense":"None",
-      "abilities":"If you have an available trap, choose a player to place a trap at their house.\n\nIf you have no available trap, you will build a trap. Traps take one Night to build; they are built automatically at the end of the Night.\n\nIf you have a trap placed, you can choose to remove it. The trap will not need to be rebuilt and will be ready for placement the next Night. If a trap is triggered instead, it will need to be rebuilt.",
+      "abilities":"If you have an available trap, choose a player to place a trap at their house.\n\nIf you have no available trap, and no trap placed on a house, you will automatically spend the night building a new trap.\n\nIf you have a trap placed, you can choose to remove it. The trap will not need to be rebuilt and will be ready for placement the next Night. If a trap is triggered instead, it will need to be rebuilt.",
       "attributes":"The Trap will trigger when the trapped house is visited, you will learn the roles of all players that visited the trapped house that night (but not who). If the trapped house was attacked, the Trap will also protect the house owner with Powerful Defence from one attack and deal a Powerful Attack to the associated attacker.",
       "goal":"Lynch every criminal and evildoer.",
       "classicResults":"N/A",
