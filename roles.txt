@@ -1,0 +1,79 @@
+// Town Investigative
+role[0] = "Investigator";
+role[1] = "Lookout";
+role[2] = "Psychic";
+role[3] = "Sheriff";
+role[4] = "Spy";
+role[5] = "Tracker";
+// Town Killing
+role[6] = "Jailor";
+role[7] = "Vampire Hunter";
+role[8] = "Veteran";
+role[9] = "Vigilante";
+// Town Protective
+role[10] = "Bodyguard";
+role[11] = "Doctor";
+role[12] = "Crusader";
+role[13] = "Trapper";
+// Town Support
+role[14] = "Escort";
+role[15] = "Mayor";
+role[16] = "Medium";
+role[17] = "Retributionist";
+role[18] = "Transporter";
+// Mafia Deception
+role[19] = "Disguiser";
+role[20] = "Forger";
+role[21] = "Framer";
+role[22] = "Hypnotist";
+role[23] = "Janitor";
+// Mafia Killing
+role[24] = "Ambusher";
+role[25] = "Godfather";
+role[26] = "Mafioso";
+// Mafia Support
+role[27] = "Blackmailer";
+role[28] = "Consigliere";
+role[29] = "Consort";
+// Neutral Benign
+role[30] = "Amnesiac";
+role[31] = "Guardian Angel";
+role[32] = "Survivor";
+// Neutral Chaos
+role[33] = "Pirate";
+role[34] = "Plaguebearer";
+role[35] = "Pestilence";
+role[36] = "Vampire";
+// Neutral Evil
+role[37] = "Executioner";
+role[38] = "Jester";
+role[39] = "Witch";
+// Neutral Killing
+role[40] = "Arsonist";
+role[41] = "Juggernaut";
+role[42] = "Serial Killer";
+role[43] = "Werewolf";
+// Coven Evil
+role[44] = "Coven Leader";
+role[45] = "Hex Master";
+role[46] = "Medusa";
+role[47] = "Necromancer";
+role[48] = "Poisoner";
+role[49] = "Potion Master";
+// Random Categories
+role[50] = "Town Investigative";
+role[51] = "Town Killing";
+role[52] = "Town Protective";
+role[53] = "Town Support";
+role[54] = "Town Random";
+role[55] = "Mafia Deception";
+role[56] = "Mafia Killing";
+role[57] = "Mafia Support";
+role[58] = "Mafia Random";
+role[59] = "Neutral Benign";
+role[60] = "Neutral Chaos";
+role[61] = "Neutral Evil";
+role[62] = "Neutral Killing";
+role[63] = "Neutral Random";
+role[64] = "Coven Random";
+role[65] = "Any Random";

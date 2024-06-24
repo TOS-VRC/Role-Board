@@ -6,7 +6,9 @@ This is the information used for the role cards in the [VRChat](https://vrchat.c
 **Discord server:** [discord.gg/tosvrc](https://discord.gg/tosvrc/)
 
 ## Syntax
-The information is written in JSON and most most values should be easy to understand.
+The information is written in JSON.
+##### roles.json
+The JSON values should be easy to understand.
 ``` JSON
 [
   {
@@ -43,6 +45,34 @@ The information is written in JSON and most most values should be easy to unders
     "community":true,
     "color":null
   }
+]
+```
+##### rolelists.json
+The `variations` value is a list of lists. Each list in the list has a length equal to the number of players in the rolelist, and each value in the list is matched to a list of role IDs. See: [roles.txt](roles.txt)
+``` JSON
+[
+   {
+      "name": "City of Lights",
+      "dlc": true,
+      "variations": [
+         [21, 18, 18, 33, 17, 23, 23, 3, 3, 3, 62, 62, 59, 59, 59]
+      ]
+   },
+   {
+      "name": "Classic",
+      "dlc": false,
+      "variations": [
+         [21, 19, 18, 17, 26, 27, 29, 4, 0, 36, 37, 44, 60, 55, 56],
+         [21, 19, 18, 17, 26, 27, 29, 4, 0, 36, 37, 44, 60, 55],
+         [21, 19, 18, 17, 26, 29, 4, 0, 36, 37, 44, 60, 56],
+         [21, 19, 17, 26, 29, 4, 0, 36, 37, 44, 60, 55],
+         [21, 19, 17, 26, 29, 4, 0, 36, 37, 44, 60],
+         [19, 17, 26, 29, 4, 0, 36, 37, 5, 56],
+         [19, 17, 26, 29, 4, 0, 36, 37, 60],
+         [17, 26, 27, 4, 0, 36, 37, 55],
+         [17, 26, 27, 4, 0, 36, 37]
+      ]
+   }
 ]
 ```
 
